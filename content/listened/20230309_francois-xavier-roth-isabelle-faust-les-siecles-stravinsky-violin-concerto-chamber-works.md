@@ -1,0 +1,9 @@
+---
+title: "Stravinsky: Violin Concerto & Chamber Works"
+slug: "francois-xavier-roth-isabelle-faust-les-siecles-stravinsky-violin-concerto-chamber-works"
+date: "2023-03-09T16:43:48.000Z"
+artist: "François-Xavier Roth, Isabelle Faust & Les Siècles"
+external: "https://www.last.fm/music/Fran%C3%A7ois-Xavier+Roth%2C+Isabelle+Faust+%26+Les+Si%C3%A8cles/Stravinsky%3A+Violin+Concerto+%26+Chamber+Works"
+hasSummary: false
+---
+

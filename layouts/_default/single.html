@@ -1,0 +1,28 @@
+{{ define "main" }}
+{{ $icon := .CurrentSection.Params.icon }}
+{{ $label := .Params.label | default .CurrentSection.Params.itemLabel }}
+<article class="entry">
+  <p class="entry__back"><a href="{{ "/" | relURL }}">← the archive</a></p>
+  <header class="entry__header">
+    <div class="entry__meta">
+      <span class="entry__kind">{{ $icon }} <a href="{{ .CurrentSection.RelPermalink }}">{{ $label }}</a></span>
+      <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Monday, January 2, 2006" }}</time>
+    </div>
+    {{ $creator := or .Params.artist .Params.author .Params.director }}
+    <h1>{{ with $creator }}<span class="entry__creator">{{ . }}</span> – {{ end }}{{ .Title }}</h1>
+    {{ with .Params.year }}<p class="entry__sub">{{ . }}</p>{{ end }}
+    {{ with .Params.updated }}
+      {{ $verb := index (dict "read" "Re-read" "watched" "Re-watched" "listened" "Re-listened" "visited" "Re-visited") $.Section }}
+      <p class="entry__repeat">↻ {{ $verb | default "Revisited" }} — most recently on {{ (time.AsTime .).Format "January 2, 2006" }}</p>
+    {{ end }}
+    {{ with .Params.rating }}{{ $r := int . }}<p class="entry__rating">{{ strings.Repeat $r "★" }}{{ strings.Repeat (sub 5 $r) "☆" }}</p>{{ end }}
+  </header>
+  {{ with .Params.image }}<img class="entry__media" src="{{ . | relURL }}" alt="{{ $.Title }}">{{ end }}
+  {{ with .Content }}<div class="entry__body">{{ . }}</div>{{ end }}
+  <footer class="entry__footer">
+    {{/* The external source is deliberately reachable only from here, not the timeline. */}}
+    {{ with .Params.external }}<p class="entry__source"><a href="{{ . }}" rel="noopener">View the source ↗</a></p>{{ end }}
+    {{ with .Params.tags }}<ul class="entry__tags">{{ range . }}<li><a href="{{ "tags/" | relURL }}{{ . | urlize }}">{{ . }}</a></li>{{ end }}</ul>{{ end }}
+  </footer>
+</article>
+{{ end }}

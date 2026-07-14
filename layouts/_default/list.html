@@ -1,0 +1,9 @@
+{{ define "main" }}
+<header class="list-header">
+  <h1>{{ .Title }} <span class="list-header__count">{{ len .Pages }}</span></h1>
+  {{ with .Content }}<div class="list-header__intro">{{ . }}</div>{{ end }}
+</header>
+{{ $paginator := .Paginate .Pages.ByDate.Reverse }}
+{{ partial "timeline.html" $paginator.Pages }}
+{{ template "_internal/pagination.html" . }}
+{{ end }}

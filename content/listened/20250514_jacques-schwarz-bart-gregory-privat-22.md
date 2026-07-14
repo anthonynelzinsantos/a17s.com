@@ -1,0 +1,9 @@
+---
+title: "22"
+slug: "jacques-schwarz-bart-gregory-privat-22"
+date: "2025-05-14T13:31:34.000Z"
+artist: "Jacques Schwarz-Bart & Grégory Privat"
+external: "https://www.last.fm/music/Jacques+Schwarz-Bart+%26+Gr%C3%A9gory+Privat/22"
+hasSummary: false
+---
+

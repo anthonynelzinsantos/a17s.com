@@ -1,0 +1,9 @@
+---
+title: "Dvořák: String Quartet No. 12 in F Major, Op. 96 \"American\""
+slug: "artemis-quartet-dvorak-string-quartet-no-12-in-f-major-op-96-american"
+date: "2024-12-05T14:41:32.000Z"
+artist: "Artemis Quartet"
+external: "https://www.last.fm/music/Artemis+Quartet/Dvo%C5%99%C3%A1k%3A+String+Quartet+No.+12+in+F+Major%2C+Op.+96+%22American%22"
+hasSummary: false
+---
+

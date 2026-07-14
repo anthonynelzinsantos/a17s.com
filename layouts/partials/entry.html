@@ -1,0 +1,38 @@
+{{/* One archive entry inside a timeline <ul>. Expects a Page in ".".
+     Two shapes: a compact row by default, a full-width image card when
+     `featured: true`. Always links to the item's own page — never straight
+     to the external source; that lives on the item page itself. */}}
+{{ $icon := .CurrentSection.Params.icon }}
+{{ $label := .Params.label | default .CurrentSection.Params.itemLabel }}
+
+{{/* creator shown in gray after the title, uniform across media types */}}
+{{ $sub := or .Params.author .Params.artist .Params.director }}
+
+{{ if .Params.featured }}
+  <li class="feature">
+    <a class="feature__link" href="{{ .RelPermalink }}">
+      {{ with .Params.image }}<img class="feature__img" src="{{ . | relURL }}" alt="{{ $.Title }}" loading="lazy">{{ end }}
+      <div class="feature__body">
+        <div class="entry__meta">
+          <span class="entry__kind">{{ $icon }} {{ $label }}</span>
+          <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Jan 2" }}</time>
+        </div>
+        <h3 class="feature__title">{{ .Title }}</h3>
+        {{ with $sub }}<p class="entry__sub">{{ . }}</p>{{ end }}
+        {{ with .Params.rating }}{{ $r := int . }}<p class="entry__rating">{{ strings.Repeat $r "★" }}{{ strings.Repeat (sub 5 $r) "☆" }}</p>{{ end }}
+        {{ with .Params.updated }}<p class="entry__repeat">↻ revisited {{ (time.AsTime .).Format "Jan 2, 2006" }}</p>{{ end }}
+        {{ if and .Summary (.Params.hasSummary | default true) }}<p class="feature__excerpt">{{ .Summary }}</p>{{ end }}
+      </div>
+    </a>
+  </li>
+{{ else }}
+  <li class="row">
+    <a class="row__link" href="{{ .RelPermalink }}">
+      <span class="row__kind">{{ $icon }} {{ $label }}</span>
+      <span class="row__title">{{ .Title }}{{ with $sub }} <span class="row__sub">{{ . }}</span>{{ end }}</span>
+      {{ with .Params.rating }}{{ $r := int . }}<span class="row__rating" aria-label="{{ $r }} out of 5">{{ strings.Repeat $r "★" }}</span>{{ end }}
+      {{ with .Params.updated }}<span class="row__repeat" title="Revisited {{ (time.AsTime .).Format "Jan 2, 2006" }}">↻</span>{{ end }}
+      <time class="row__date" datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Jan 2" }}</time>
+    </a>
+  </li>
+{{ end }}

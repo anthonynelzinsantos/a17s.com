@@ -1,0 +1,11 @@
+---
+title: "Cream"
+slug: "kassa-overall-cream"
+date: "2025-09-12T11:46:45.000Z"
+updated: "2025-09-15T09:03:17.000Z"
+artist: "Kassa Overall"
+external: "https://www.last.fm/music/Kassa+Overall/Cream"
+hasSummary: false
+tags: ["re-listened"]
+---
+

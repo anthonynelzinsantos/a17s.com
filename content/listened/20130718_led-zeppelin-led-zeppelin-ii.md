@@ -1,0 +1,11 @@
+---
+title: "Led Zeppelin II"
+slug: "led-zeppelin-led-zeppelin-ii"
+date: "2013-07-18T14:04:35.000Z"
+updated: "2015-09-18T15:33:21.000Z"
+artist: "Led Zeppelin"
+external: "https://www.last.fm/music/Led+Zeppelin/Led+Zeppelin+II"
+hasSummary: false
+tags: ["re-listened"]
+---
+

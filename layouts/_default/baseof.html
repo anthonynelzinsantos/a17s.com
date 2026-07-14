@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.Params.lang }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ $c := or .Params.artist .Params.author .Params.director }}{{ with $c }}{{ . }} – {{ end }}{{ .Title }} · {{ .Site.Title }}{{ end }}</title>
+  <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+  <link rel="stylesheet" href="{{ "css/main.css" | relURL }}">
+  {{ with .OutputFormats.Get "rss" }}<link rel="alternate" type="application/rss+xml" href="{{ .RelPermalink }}" title="{{ $.Site.Title }}">{{ end }}
+</head>
+<body>
+  <header class="site-header">
+    <a class="site-title" href="{{ "/" | relURL }}">{{ .Site.Title }}</a>
+    <p class="site-tagline">{{ .Site.Params.description }}</p>
+    <nav class="site-nav" aria-label="Browse by type">
+      {{ range .Site.Sections.ByWeight }}
+        <a href="{{ .RelPermalink }}"{{ if $.IsDescendant . }} aria-current="true"{{ end }}>{{ .Params.icon }} {{ .Title }}</a>
+      {{ end }}
+    </nav>
+  </header>
+  <main>
+    {{ block "main" . }}{{ end }}
+  </main>
+  <footer class="site-footer">
+    <p>Built with Hugo · {{ now.Format "2006" }}</p>
+  </footer>
+</body>
+</html>

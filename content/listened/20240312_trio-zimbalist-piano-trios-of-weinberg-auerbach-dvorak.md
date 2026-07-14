@@ -1,0 +1,9 @@
+---
+title: "Piano Trios of Weinberg, Auerbach, & Dvořák"
+slug: "trio-zimbalist-piano-trios-of-weinberg-auerbach-dvorak"
+date: "2024-03-12T14:10:41.000Z"
+artist: "Trio Zimbalist"
+external: "https://www.last.fm/music/Trio+Zimbalist/Piano+Trios+of+Weinberg%2C+Auerbach%2C+%26+Dvo%C5%99%C3%A1k"
+hasSummary: false
+---
+

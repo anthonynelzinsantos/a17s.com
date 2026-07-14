@@ -1,0 +1,11 @@
+---
+title: "Crosby, Stills & Nash"
+slug: "crosby-stills-nash-crosby-stills-nash"
+date: "2014-07-19T17:12:49.000Z"
+updated: "2014-12-01T11:03:01.000Z"
+artist: "Crosby, Stills & Nash"
+external: "https://www.last.fm/music/Crosby%2C+Stills+%26+Nash/Crosby%2C+Stills+%26+Nash"
+hasSummary: false
+tags: ["re-listened"]
+---
+

@@ -1,0 +1,11 @@
+---
+title: "Good Look"
+slug: "musicmusicmusic-good-look"
+date: "2024-01-08T10:29:52.000Z"
+updated: "2024-01-11T09:15:01.000Z"
+artist: "MUSICMUSICMUSIC"
+external: "https://www.last.fm/music/MUSICMUSICMUSIC/Good+Look"
+hasSummary: false
+tags: ["re-listened"]
+---
+

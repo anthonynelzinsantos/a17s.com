@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fiction on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/tags/fiction/</link>
+    <description>Recent content in Fiction on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 08 Jul 2026 00:00:00 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1377/tags/fiction/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pachinko</title>
+      <link>http://localhost:1377/read/min-jin-lee-pachinko/</link>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 +0200</pubDate>
+      <guid>http://localhost:1377/read/min-jin-lee-pachinko/</guid>
+      <description>&lt;p&gt;Four generations, and it never once feels like homework. Finished it on the train and sat with it a while before getting off. The kind of book that reorganises how you think about a whole century.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,9 @@
+---
+title: "Arabian Camel Ride - EP"
+slug: "gilad-hekselman-jonathan-pinson-clemens-orth-clemens-orth-tr-arabian-camel-ride-ep"
+date: "2025-05-19T15:00:29.000Z"
+artist: "Gilad Hekselman, Jonathan Pinson, Clemens Orth & Clemens Orth Trio"
+external: "https://www.last.fm/music/Gilad+Hekselman%2C+Jonathan+Pinson%2C+Clemens+Orth+%26+Clemens+Orth+Trio/Arabian+Camel+Ride+-+EP"
+hasSummary: false
+---
+

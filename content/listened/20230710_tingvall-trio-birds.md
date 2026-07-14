@@ -1,0 +1,11 @@
+---
+title: "Birds"
+slug: "tingvall-trio-birds"
+date: "2023-07-10T12:28:45.000Z"
+updated: "2024-05-13T15:01:44.000Z"
+artist: "Tingvall Trio"
+external: "https://www.last.fm/music/Tingvall+Trio/Birds"
+hasSummary: false
+tags: ["re-listened"]
+---
+

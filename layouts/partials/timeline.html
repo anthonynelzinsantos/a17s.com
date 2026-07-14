@@ -1,0 +1,10 @@
+{{/* Renders a Pages collection as a month-grouped timeline list.
+     Context (".") is the Pages slice itself. */}}
+{{ range .GroupByDate "January 2006" }}
+  <section class="month">
+    <h2 class="month__heading">{{ .Key }}</h2>
+    <ul class="entries">
+      {{ range .Pages }}{{ partial "entry.html" . }}{{ end }}
+    </ul>
+  </section>
+{{ end }}

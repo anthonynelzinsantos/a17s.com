@@ -1,0 +1,5 @@
+{{ define "main" }}
+  {{ $paginator := .Paginate .Site.RegularPages.ByDate.Reverse }}
+  {{ partial "timeline.html" $paginator.Pages }}
+  {{ template "_internal/pagination.html" . }}
+{{ end }}

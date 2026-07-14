@@ -1,0 +1,82 @@
+name: Archive
+
+# Runs the automated fetchers, commits any new entries (the Markdown IS the
+# archive, so it's version-controlled), then builds and deploys to GitHub Pages.
+on:
+  schedule:
+    - cron: "0 6 * * *"   # daily, 06:00 UTC
+  workflow_dispatch:       # or run it by hand from the Actions tab
+  push:
+    branches: [main]       # also rebuild on manual content edits
+
+permissions:
+  contents: write          # to commit fetched entries
+  pages: write
+  id-token: write
+
+concurrency:
+  group: archive
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      # Add these under Settings ▸ Secrets and variables ▸ Actions.
+      # Any that are missing are simply skipped — the site still builds.
+      LASTFM_API_KEY: ${{ secrets.LASTFM_API_KEY }}
+      LASTFM_USER: ${{ secrets.LASTFM_USER }}
+      LETTERBOXD_USER: ${{ secrets.LETTERBOXD_USER }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Fetch music (Last.fm)
+        if: env.LASTFM_API_KEY != '' && env.LASTFM_USER != ''
+        run: node scripts/fetch-lastfm.mjs
+
+      - name: Fetch films (Letterboxd)
+        if: env.LETTERBOXD_USER != ''
+        run: node scripts/fetch-letterboxd.mjs
+
+      # StoryGraph has no API — import its CSV export by hand with
+      # `node scripts/import-storygraph.mjs <file.csv>` and commit the result.
+
+      - name: Commit new entries
+        run: |
+          git config user.name "archive-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add content
+          if git diff --cached --quiet; then
+            echo "No new entries."
+          else
+            git commit -m "chore: sync archive $(date -u +%F)"
+            git push
+          fi
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: "0.161.1"
+          extended: true
+
+      - name: Build
+        run: hugo --gc --minify
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./public
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

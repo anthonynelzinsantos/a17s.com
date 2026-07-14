@@ -1,0 +1,11 @@
+---
+title: "Landloper (Live)"
+slug: "arild-andersen-landloper-live"
+date: "2024-12-03T09:24:18.000Z"
+updated: "2024-12-04T14:31:22.000Z"
+artist: "Arild Andersen"
+external: "https://www.last.fm/music/Arild+Andersen/Landloper+(Live)"
+hasSummary: false
+tags: ["re-listened"]
+---
+

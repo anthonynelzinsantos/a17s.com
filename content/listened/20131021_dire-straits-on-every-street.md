@@ -1,0 +1,11 @@
+---
+title: "On Every Street"
+slug: "dire-straits-on-every-street"
+date: "2013-10-21T15:46:44.000Z"
+updated: "2013-10-22T12:19:07.000Z"
+artist: "Dire Straits"
+external: "https://www.last.fm/music/Dire+Straits/On+Every+Street"
+hasSummary: false
+tags: ["re-listened"]
+---
+

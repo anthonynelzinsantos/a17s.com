@@ -1,0 +1,9 @@
+---
+title: "Agapé"
+slug: "pierre-de-bethmann-quartet-agape"
+date: "2025-01-30T11:09:03.000Z"
+artist: "Pierre de Bethmann Quartet"
+external: "https://www.last.fm/music/Pierre+de+Bethmann+Quartet/Agap%C3%A9"
+hasSummary: false
+---
+

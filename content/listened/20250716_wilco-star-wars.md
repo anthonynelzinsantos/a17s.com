@@ -1,0 +1,9 @@
+---
+title: "Star Wars"
+slug: "wilco-star-wars"
+date: "2025-07-16T12:01:32.000Z"
+artist: "Wilco"
+external: "https://www.last.fm/music/Wilco/Star+Wars"
+hasSummary: false
+---
+

@@ -1,0 +1,46 @@
+{{/* Renders one archive entry as a timeline card. Expects a Page in "." */}}
+{{ $kind := .Params.medium | default "note" }}
+{{ $icon := index (dict
+  "photo" "\U0001F4F7"
+  "song"  "\U0001F3B5"
+  "album" "\U0001F4BF"
+  "book"  "\U0001F4D6"
+  "film"  "\U0001F3AC"
+  "tv"    "\U0001F4FA"
+  "link"  "\U0001F517"
+  "place" "\U0001F4CD"
+  "note"  "\U0001F4DD") $kind }}
+
+<article class="card card--{{ $kind }}" data-kind="{{ $kind }}">
+  {{ with .Params.image }}
+    <a class="card__media" href="{{ $.RelPermalink }}">
+      <img src="{{ . | relURL }}" alt="{{ $.Title }}" loading="lazy">
+    </a>
+  {{ end }}
+  <div class="card__body">
+    <div class="card__meta">
+      <span class="card__kind" title="{{ $kind }}">{{ $icon }} {{ $kind }}</span>
+      <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Jan 2, 2006" }}</time>
+    </div>
+    <h3 class="card__title">
+      {{ with .Params.external }}
+        <a href="{{ . }}" rel="noopener">{{ $.Title }}</a>
+      {{ else }}
+        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+      {{ end }}
+    </h3>
+    {{/* kind-specific secondary line */}}
+    {{ if or (eq $kind "song") (eq $kind "album") }}
+      {{ with .Params.artist }}<p class="card__sub">{{ . }}</p>{{ end }}
+    {{ else if eq $kind "book" }}
+      {{ with .Params.author }}<p class="card__sub">{{ . }}</p>{{ end }}
+    {{ else if or (eq $kind "film") (eq $kind "tv") }}
+      {{ with .Params.director }}<p class="card__sub">dir. {{ . }}{{ with $.Params.year }} · {{ . }}{{ end }}</p>{{ end }}
+    {{ end }}
+    {{ with .Params.rating }}{{ $r := int . }}<p class="card__rating" aria-label="Rated {{ $r }} out of 5">{{ strings.Repeat $r "★" }}{{ strings.Repeat (sub 5 $r) "☆" }}</p>{{ end }}
+    {{ if and .Summary (.Params.hasSummary | default true) }}<div class="card__note">{{ .Summary }}</div>{{ end }}
+    {{ with .Params.tags }}
+      <ul class="card__tags">{{ range . }}<li><a href="{{ "tags/" | relURL }}{{ . | urlize }}">{{ . }}</a></li>{{ end }}</ul>
+    {{ end }}
+  </div>
+</article>

@@ -1,0 +1,22 @@
+baseURL = "https://a17s.example/"
+title = "Anthony's Archive"
+timeZone = "Europe/Paris"
+
+# Pull entries per page on the timeline
+paginate = 50
+
+[params]
+  lang = "en"
+  description = "An archive of the things I've seen, photographed, watched, read and listened to."
+
+# The media type is now the content section (read/watched/listened/…), so each
+# item lives at its own URL. `tags` stay cross-cutting: one theme (e.g. "japan")
+# can span a book, a film and a photo.
+[taxonomies]
+  tag = "tags"
+
+[markup.goldmark.renderer]
+  unsafe = true  # allow raw HTML in entry bodies (e.g. embeds)
+
+[outputs]
+  home = ["HTML", "RSS"]

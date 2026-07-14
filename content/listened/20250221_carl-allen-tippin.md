@@ -1,0 +1,11 @@
+---
+title: "Tippin'"
+slug: "carl-allen-tippin"
+date: "2025-02-21T20:08:26.000Z"
+updated: "2025-02-25T15:47:27.000Z"
+artist: "Carl Allen"
+external: "https://www.last.fm/music/Carl+Allen/Tippin'"
+hasSummary: false
+tags: ["re-listened"]
+---
+

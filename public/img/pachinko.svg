@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600">
+<rect width="1200" height="600" fill="#8a1f2b"/>
+<rect x="0" y="0" width="1200" height="600" fill="#6f1622" opacity="0.4"/>
+<g opacity="0.25" fill="#f4d68a">
+<circle cx="200" cy="150" r="70"/><circle cx="420" cy="380" r="45"/><circle cx="980" cy="200" r="55"/><circle cx="760" cy="460" r="38"/><circle cx="1080" cy="440" r="30"/>
+</g>
+<text x="600" y="300" font-family="Georgia, serif" font-size="72" fill="#f7e9c9" text-anchor="middle" font-style="italic">Pachinko</text>
+<text x="600" y="360" font-family="Georgia, serif" font-size="26" fill="#e8c98f" text-anchor="middle" letter-spacing="4">MIN JIN LEE</text>
+</svg>

@@ -1,0 +1,11 @@
+---
+title: "Day 1"
+slug: "makoto-ozone-no-name-horses-day-1"
+date: "2024-11-25T13:17:27.000Z"
+updated: "2025-05-29T10:27:17.000Z"
+artist: "Makoto Ozone & No Name Horses"
+external: "https://www.last.fm/music/Makoto+Ozone+%26+No+Name+Horses/Day+1"
+hasSummary: false
+tags: ["re-listened"]
+---
+

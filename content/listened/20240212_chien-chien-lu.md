@@ -1,0 +1,11 @@
+---
+title: "內建系統"
+slug: "chien-chien-lu"
+date: "2024-02-12T16:13:53.000Z"
+updated: "2024-02-15T09:59:18.000Z"
+artist: "Chien Chien Lu"
+external: "https://www.last.fm/music/Chien+Chien+Lu/%E5%85%A7%E5%BB%BA%E7%B3%BB%E7%B5%B1"
+hasSummary: false
+tags: ["re-listened"]
+---
+

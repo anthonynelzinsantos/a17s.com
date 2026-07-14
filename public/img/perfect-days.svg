@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600">
+<defs><linearGradient id="s" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2f5d3a"/><stop offset="1" stop-color="#14361f"/></linearGradient></defs>
+<rect width="1200" height="600" fill="url(#s)"/>
+<g opacity="0.6" fill="#d9f2c0">
+<polygon points="150,0 220,0 120,180 70,140"/><polygon points="400,0 470,0 360,220 300,170"/>
+<polygon points="820,0 900,0 780,200 720,150"/><polygon points="1050,0 1130,0 1000,240 950,190"/>
+</g>
+<g fill="#fdf6d8" opacity="0.85"><rect x="300" y="120" width="10" height="10"/><rect x="620" y="220" width="12" height="12"/><rect x="880" y="90" width="9" height="9"/><rect x="500" y="330" width="8" height="8"/></g>
+<text x="600" y="470" font-family="Georgia, serif" font-size="58" fill="#f4ffe8" text-anchor="middle">Perfect Days</text>
+</svg>

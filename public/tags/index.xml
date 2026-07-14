@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/tags/</link>
+    <description>Recent content in Tags on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 07 Jul 2026 07:20:47 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Re-Listened</title>
+      <link>http://localhost:1377/tags/re-listened/</link>
+      <pubDate>Tue, 07 Jul 2026 07:20:47 +0000</pubDate>
+      <guid>http://localhost:1377/tags/re-listened/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Re-Watched</title>
+      <link>http://localhost:1377/tags/re-watched/</link>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1377/tags/re-watched/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dnf</title>
+      <link>http://localhost:1377/tags/dnf/</link>
+      <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1377/tags/dnf/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

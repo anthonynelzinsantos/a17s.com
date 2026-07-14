@@ -1,0 +1,9 @@
+---
+title: "Tomorrow’s Yearning"
+slug: "yesterdays-princess-tomorrows-yearning"
+date: "2025-08-22T08:37:58.000Z"
+artist: "Yesterday’s Princess"
+external: "https://www.last.fm/music/Yesterday%E2%80%99s+Princess/Tomorrow%E2%80%99s+Yearning"
+hasSummary: false
+---
+

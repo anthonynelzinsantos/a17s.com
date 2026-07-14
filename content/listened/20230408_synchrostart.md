@@ -1,0 +1,9 @@
+---
+title: "永遠の愛"
+slug: "synchrostart"
+date: "2023-04-08T18:23:19.000Z"
+artist: "synchro//start"
+external: "https://www.last.fm/music/synchro%2F%2Fstart/%E6%B0%B8%E9%81%A0%E3%81%AE%E6%84%9B"
+hasSummary: false
+---
+
