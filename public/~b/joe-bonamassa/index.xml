@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Joe Bonamassa on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/joe-bonamassa/</link>
+    <description>Recent content in Joe Bonamassa on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 16 Aug 2025 15:04:08 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/joe-bonamassa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Breakthrough</title>
+      <link>http://localhost:1377/l/1755356648/</link>
+      <pubDate>Sat, 16 Aug 2025 15:04:08 +0000</pubDate>
+      <guid>http://localhost:1377/l/1755356648/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Blues Deluxe Vol. 2</title>
+      <link>http://localhost:1377/l/1698234544/</link>
+      <pubDate>Wed, 25 Oct 2023 11:49:04 +0000</pubDate>
+      <guid>http://localhost:1377/l/1698234544/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Seesaw</title>
+      <link>http://localhost:1377/l/1465920185/</link>
+      <pubDate>Tue, 14 Jun 2016 16:03:05 +0000</pubDate>
+      <guid>http://localhost:1377/l/1465920185/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

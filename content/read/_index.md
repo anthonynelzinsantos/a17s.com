@@ -1,6 +1,6 @@
 ---
 title: "Read"
-weight: 10
-params: { icon: "📖", itemLabel: "Book" }
+weight: 20
+params: { icon: "📖", itemLabel: "Book", repeatVerb: "Re-read" }
 ---
 Books and long reads.

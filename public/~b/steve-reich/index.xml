@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Steve Reich on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/steve-reich/</link>
+    <description>Recent content in Steve Reich on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 24 Sep 2025 14:02:27 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/steve-reich/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Four Sections / Music for Mallet Instruments, Voices and Organ</title>
+      <link>http://localhost:1377/l/1758722547/</link>
+      <pubDate>Wed, 24 Sep 2025 14:02:27 +0000</pubDate>
+      <guid>http://localhost:1377/l/1758722547/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Steve Reich: Double Sextet, Radio Rewrite</title>
+      <link>http://localhost:1377/l/1474111985/</link>
+      <pubDate>Sat, 17 Sep 2016 11:33:05 +0000</pubDate>
+      <guid>http://localhost:1377/l/1474111985/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Steve Reich: Music for 18 Musicians</title>
+      <link>http://localhost:1377/l/1472068627/</link>
+      <pubDate>Wed, 24 Aug 2016 19:57:07 +0000</pubDate>
+      <guid>http://localhost:1377/l/1472068627/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

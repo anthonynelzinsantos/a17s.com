@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fabien Mary on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/fabien-mary/</link>
+    <description>Recent content in Fabien Mary on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 06 Feb 2024 15:25:31 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/fabien-mary/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Never let me go (feat. Gael Rakotondrabe, Laurent Vernerey &amp; Stephane Chandelier)</title>
+      <link>http://localhost:1377/l/1707233131/</link>
+      <pubDate>Tue, 06 Feb 2024 15:25:31 +0000</pubDate>
+      <guid>http://localhost:1377/l/1707233131/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Conception</title>
+      <link>http://localhost:1377/l/1423949243/</link>
+      <pubDate>Sat, 14 Feb 2015 21:27:23 +0000</pubDate>
+      <guid>http://localhost:1377/l/1423949243/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

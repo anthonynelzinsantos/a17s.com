@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sml on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/sml/</link>
+    <description>Recent content in Sml on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 11 Jul 2024 09:00:46 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/sml/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Small Medium Large (feat. Jeremiah Chiu, Gregory Uhlmann, Josh Johnson, Booker Stardrum &amp; Anna Butterss)</title>
+      <link>http://localhost:1377/l/1720688446/</link>
+      <pubDate>Thu, 11 Jul 2024 09:00:46 +0000</pubDate>
+      <guid>http://localhost:1377/l/1720688446/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Decemberists on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/the-decemberists/</link>
+    <description>Recent content in The Decemberists on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 20 Feb 2015 22:54:03 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/the-decemberists/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What a Terrible World, What a Beautiful World</title>
+      <link>http://localhost:1377/l/1424472843/</link>
+      <pubDate>Fri, 20 Feb 2015 22:54:03 +0000</pubDate>
+      <guid>http://localhost:1377/l/1424472843/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The King Is Dead</title>
+      <link>http://localhost:1377/l/1394013883/</link>
+      <pubDate>Wed, 05 Mar 2014 10:04:43 +0000</pubDate>
+      <guid>http://localhost:1377/l/1394013883/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

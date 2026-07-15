@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dua Lipa on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/dua-lipa/</link>
+    <description>Recent content in Dua Lipa on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 27 Dec 2024 16:36:01 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/dua-lipa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dua Lipa Live from the Royal Albert Hall</title>
+      <link>http://localhost:1377/l/1735317361/</link>
+      <pubDate>Fri, 27 Dec 2024 16:36:01 +0000</pubDate>
+      <guid>http://localhost:1377/l/1735317361/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Radical Optimism</title>
+      <link>http://localhost:1377/l/1714850809/</link>
+      <pubDate>Sat, 04 May 2024 19:26:49 +0000</pubDate>
+      <guid>http://localhost:1377/l/1714850809/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Future Nostalgia</title>
+      <link>http://localhost:1377/l/1706870416/</link>
+      <pubDate>Fri, 02 Feb 2024 10:40:16 +0000</pubDate>
+      <guid>http://localhost:1377/l/1706870416/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dua Lipa (Deluxe)</title>
+      <link>http://localhost:1377/l/1706866131/</link>
+      <pubDate>Fri, 02 Feb 2024 09:28:51 +0000</pubDate>
+      <guid>http://localhost:1377/l/1706866131/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lee Morgan on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/lee-morgan/</link>
+    <description>Recent content in Lee Morgan on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 04 Jul 2025 13:18:20 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/lee-morgan/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Here&#39;s Lee Morgan</title>
+      <link>http://localhost:1377/l/1751635100/</link>
+      <pubDate>Fri, 04 Jul 2025 13:18:20 +0000</pubDate>
+      <guid>http://localhost:1377/l/1751635100/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sonic Boom</title>
+      <link>http://localhost:1377/l/1446392168/</link>
+      <pubDate>Sun, 01 Nov 2015 15:36:08 +0000</pubDate>
+      <guid>http://localhost:1377/l/1446392168/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The Sidewinder</title>
+      <link>http://localhost:1377/l/1446375884/</link>
+      <pubDate>Sun, 01 Nov 2015 11:04:44 +0000</pubDate>
+      <guid>http://localhost:1377/l/1446375884/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

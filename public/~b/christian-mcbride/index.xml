@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Christian McBride on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/christian-mcbride/</link>
+    <description>Recent content in Christian McBride on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 29 Aug 2025 11:55:01 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/christian-mcbride/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Without Further Ado, Vol 1</title>
+      <link>http://localhost:1377/l/1756468501/</link>
+      <pubDate>Fri, 29 Aug 2025 11:55:01 +0000</pubDate>
+      <guid>http://localhost:1377/l/1756468501/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Live at the Village Vanguard</title>
+      <link>http://localhost:1377/l/1748526459/</link>
+      <pubDate>Thu, 29 May 2025 13:47:39 +0000</pubDate>
+      <guid>http://localhost:1377/l/1748526459/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>PRIME</title>
+      <link>http://localhost:1377/l/1682712665/</link>
+      <pubDate>Fri, 28 Apr 2023 20:11:05 +0000</pubDate>
+      <guid>http://localhost:1377/l/1682712665/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The Q Sessions</title>
+      <link>http://localhost:1377/l/1677266756/</link>
+      <pubDate>Fri, 24 Feb 2023 19:25:56 +0000</pubDate>
+      <guid>http://localhost:1377/l/1677266756/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SuperBass (Recorded Live At Scullers)</title>
+      <link>http://localhost:1377/l/1477556920/</link>
+      <pubDate>Thu, 27 Oct 2016 08:28:40 +0000</pubDate>
+      <guid>http://localhost:1377/l/1477556920/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Out Here</title>
+      <link>http://localhost:1377/l/1457629404/</link>
+      <pubDate>Thu, 10 Mar 2016 17:03:24 +0000</pubDate>
+      <guid>http://localhost:1377/l/1457629404/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

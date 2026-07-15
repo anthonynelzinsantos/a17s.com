@@ -21,6 +21,9 @@ const clean = (s) => s.replace(/<[^>]+>/g, "")
   .replace(/&nbsp;/g, " ").replace(/&amp;/g, "&")
   .replace(/&#39;|&apos;/g, "'").replace(/&quot;/g, '"').trim();
 
+// StoryGraph "Format" -> the "on" (format) taxonomy value.
+const FORMAT = { digital: "Ebook", audio: "Audiobook" };
+
 const rows = parseCSV(await readFile(csvPath, "utf8"));
 const header = rows.shift().map((h) => h.trim());
 const col = (r, name) => r[header.indexOf(name)]?.trim() ?? "";
@@ -35,11 +38,14 @@ const read = rows
 const results = [];
 for (const { r, when } of read) {
   const stars = col(r, "Star Rating");
+  const author = col(r, "Authors") || col(r, "Author");
   results.push(await writeEntry({
     date: toDate(when),
-    section: "read",             // default label "Book"
+    section: "Read",             // default label "Book"
     title: col(r, "Title"),
-    author: col(r, "Authors") || col(r, "Author"),
+    on: FORMAT[col(r, "Format").toLowerCase()] || "Book",   // format taxonomy
+    author,
+    by: author,                 // creator taxonomy
     rating: stars ? Math.round(Number(stars)) : undefined,
     tags: (col(r, "Tags") || "").split(",").map((t) => t.trim()).filter(Boolean),
     body: clean(col(r, "Review") || ""),

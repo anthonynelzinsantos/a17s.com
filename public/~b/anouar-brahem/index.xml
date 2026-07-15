@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anouar Brahem on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/anouar-brahem/</link>
+    <description>Recent content in Anouar Brahem on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 18 Sep 2025 13:36:58 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/anouar-brahem/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Astrakan café</title>
+      <link>http://localhost:1377/l/1758202618/</link>
+      <pubDate>Thu, 18 Sep 2025 13:36:58 +0000</pubDate>
+      <guid>http://localhost:1377/l/1758202618/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>After the Last Sky</title>
+      <link>http://localhost:1377/l/1743398411/</link>
+      <pubDate>Mon, 31 Mar 2025 05:20:11 +0000</pubDate>
+      <guid>http://localhost:1377/l/1743398411/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The Astounding Eyes Of Rita</title>
+      <link>http://localhost:1377/l/1733843607/</link>
+      <pubDate>Tue, 10 Dec 2024 15:13:27 +0000</pubDate>
+      <guid>http://localhost:1377/l/1733843607/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

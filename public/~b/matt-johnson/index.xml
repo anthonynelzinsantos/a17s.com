@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Matt Johnson on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/matt-johnson/</link>
+    <description>Recent content in Matt Johnson on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 09 Jun 2025 11:57:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/matt-johnson/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Warrior Princess</title>
+      <link>http://localhost:1377/l/1749470220/</link>
+      <pubDate>Mon, 09 Jun 2025 11:57:00 +0000</pubDate>
+      <guid>http://localhost:1377/l/1749470220/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>BlackBerry</title>
+      <link>http://localhost:1377/w/1721433600/</link>
+      <pubDate>Sat, 20 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1377/w/1721433600/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

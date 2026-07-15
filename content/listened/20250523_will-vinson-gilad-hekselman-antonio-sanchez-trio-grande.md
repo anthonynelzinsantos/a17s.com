@@ -1,9 +1,0 @@
----
-title: "Trio Grande"
-slug: "will-vinson-gilad-hekselman-antonio-sanchez-trio-grande"
-date: "2025-05-23T09:12:53.000Z"
-artist: "Will Vinson, Gilad Hekselman & Antonio Sánchez"
-external: "https://www.last.fm/music/Will+Vinson%2C+Gilad+Hekselman+%26+Antonio+S%C3%A1nchez/Trio+Grande"
-hasSummary: false
----
-

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Clairo on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/clairo/</link>
+    <description>Recent content in Clairo on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 30 Dec 2024 09:13:10 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/clairo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Charm</title>
+      <link>http://localhost:1377/l/1735549990/</link>
+      <pubDate>Mon, 30 Dec 2024 09:13:10 +0000</pubDate>
+      <guid>http://localhost:1377/l/1735549990/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sling</title>
+      <link>http://localhost:1377/l/1735492696/</link>
+      <pubDate>Sun, 29 Dec 2024 17:18:16 +0000</pubDate>
+      <guid>http://localhost:1377/l/1735492696/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Immunity</title>
+      <link>http://localhost:1377/l/1735490238/</link>
+      <pubDate>Sun, 29 Dec 2024 16:37:18 +0000</pubDate>
+      <guid>http://localhost:1377/l/1735490238/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

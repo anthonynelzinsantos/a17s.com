@@ -1,9 +1,0 @@
----
-title: "Kimatika"
-slug: "etceteral-kimatika"
-date: "2025-09-08T13:59:26.000Z"
-artist: "Etceteral"
-external: "https://www.last.fm/music/Etceteral/Kimatika"
-hasSummary: false
----
-

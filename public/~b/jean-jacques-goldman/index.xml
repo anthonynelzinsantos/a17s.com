@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jean-Jacques Goldman on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/jean-jacques-goldman/</link>
+    <description>Recent content in Jean-Jacques Goldman on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 24 Jun 2013 13:27:17 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/jean-jacques-goldman/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Un Tour Ensemble</title>
+      <link>http://localhost:1377/l/1372080437/</link>
+      <pubDate>Mon, 24 Jun 2013 13:27:17 +0000</pubDate>
+      <guid>http://localhost:1377/l/1372080437/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Chansons Pour Les Pieds</title>
+      <link>http://localhost:1377/l/1372078584/</link>
+      <pubDate>Mon, 24 Jun 2013 12:56:24 +0000</pubDate>
+      <guid>http://localhost:1377/l/1372078584/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Démodé</title>
+      <link>http://localhost:1377/l/1372076951/</link>
+      <pubDate>Mon, 24 Jun 2013 12:29:11 +0000</pubDate>
+      <guid>http://localhost:1377/l/1372076951/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

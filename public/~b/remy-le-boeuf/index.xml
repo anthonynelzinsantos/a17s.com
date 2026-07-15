@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Remy Le Boeuf on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/remy-le-boeuf/</link>
+    <description>Recent content in Remy Le Boeuf on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 22 Apr 2024 12:27:20 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/remy-le-boeuf/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Heartland Radio</title>
+      <link>http://localhost:1377/l/1713788840/</link>
+      <pubDate>Mon, 22 Apr 2024 12:27:20 +0000</pubDate>
+      <guid>http://localhost:1377/l/1713788840/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

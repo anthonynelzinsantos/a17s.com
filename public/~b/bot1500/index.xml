@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BOT1500 on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/bot1500/</link>
+    <description>Recent content in BOT1500 on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 12 Jan 2023 14:41:20 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/bot1500/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Surreal</title>
+      <link>http://localhost:1377/l/1673534480/</link>
+      <pubDate>Thu, 12 Jan 2023 14:41:20 +0000</pubDate>
+      <guid>http://localhost:1377/l/1673534480/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

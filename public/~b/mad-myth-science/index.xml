@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mad Myth Science on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/mad-myth-science/</link>
+    <description>Recent content in Mad Myth Science on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 11 Sep 2023 09:25:07 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/mad-myth-science/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mad Myth Science</title>
+      <link>http://localhost:1377/l/1694424307/</link>
+      <pubDate>Mon, 11 Sep 2023 09:25:07 +0000</pubDate>
+      <guid>http://localhost:1377/l/1694424307/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

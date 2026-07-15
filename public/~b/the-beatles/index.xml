@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Beatles on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/the-beatles/</link>
+    <description>Recent content in The Beatles on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 24 Feb 2025 14:06:21 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/the-beatles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Let It Be</title>
+      <link>http://localhost:1377/l/1740405981/</link>
+      <pubDate>Mon, 24 Feb 2025 14:06:21 +0000</pubDate>
+      <guid>http://localhost:1377/l/1740405981/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Abbey Road (Super Deluxe Edition)</title>
+      <link>http://localhost:1377/l/1681482753/</link>
+      <pubDate>Fri, 14 Apr 2023 14:32:33 +0000</pubDate>
+      <guid>http://localhost:1377/l/1681482753/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Revolver (2022 Mix)</title>
+      <link>http://localhost:1377/l/1678442421/</link>
+      <pubDate>Fri, 10 Mar 2023 10:00:21 +0000</pubDate>
+      <guid>http://localhost:1377/l/1678442421/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sgt. Pepper&#39;s Lonely Hearts Club Band (Remix)</title>
+      <link>http://localhost:1377/l/1678206442/</link>
+      <pubDate>Tue, 07 Mar 2023 16:27:22 +0000</pubDate>
+      <guid>http://localhost:1377/l/1678206442/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Abbey Road (Remastered)</title>
+      <link>http://localhost:1377/l/1452086703/</link>
+      <pubDate>Wed, 06 Jan 2016 13:25:03 +0000</pubDate>
+      <guid>http://localhost:1377/l/1452086703/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The Beatles (Remastered)</title>
+      <link>http://localhost:1377/l/1452076562/</link>
+      <pubDate>Wed, 06 Jan 2016 10:36:02 +0000</pubDate>
+      <guid>http://localhost:1377/l/1452076562/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Let It Be… Naked</title>
+      <link>http://localhost:1377/l/1445103362/</link>
+      <pubDate>Sat, 17 Oct 2015 17:36:02 +0000</pubDate>
+      <guid>http://localhost:1377/l/1445103362/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The Alternate Rubber Soul (2003 Edition)</title>
+      <link>http://localhost:1377/l/1377166599/</link>
+      <pubDate>Thu, 22 Aug 2013 10:16:39 +0000</pubDate>
+      <guid>http://localhost:1377/l/1377166599/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Abbey Road</title>
+      <link>http://localhost:1377/l/1366191219/</link>
+      <pubDate>Wed, 17 Apr 2013 09:33:39 +0000</pubDate>
+      <guid>http://localhost:1377/l/1366191219/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

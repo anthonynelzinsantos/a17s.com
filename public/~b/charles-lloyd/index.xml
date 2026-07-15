@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Charles Lloyd on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/charles-lloyd/</link>
+    <description>Recent content in Charles Lloyd on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 29 Mar 2026 10:09:33 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/charles-lloyd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Canto</title>
+      <link>http://localhost:1377/l/1774778973/</link>
+      <pubDate>Sun, 29 Mar 2026 10:09:33 +0000</pubDate>
+      <guid>http://localhost:1377/l/1774778973/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The Sky Will Still Be There Tomorrow</title>
+      <link>http://localhost:1377/l/1714052336/</link>
+      <pubDate>Thu, 25 Apr 2024 13:38:56 +0000</pubDate>
+      <guid>http://localhost:1377/l/1714052336/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

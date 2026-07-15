@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nils Frahm on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/nils-frahm/</link>
+    <description>Recent content in Nils Frahm on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 14 May 2025 09:06:35 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/nils-frahm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Night</title>
+      <link>http://localhost:1377/l/1747213595/</link>
+      <pubDate>Wed, 14 May 2025 09:06:35 +0000</pubDate>
+      <guid>http://localhost:1377/l/1747213595/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Day</title>
+      <link>http://localhost:1377/l/1734362151/</link>
+      <pubDate>Mon, 16 Dec 2024 15:15:51 +0000</pubDate>
+      <guid>http://localhost:1377/l/1734362151/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Paris</title>
+      <link>http://localhost:1377/l/1734356396/</link>
+      <pubDate>Mon, 16 Dec 2024 13:39:56 +0000</pubDate>
+      <guid>http://localhost:1377/l/1734356396/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>All Melody</title>
+      <link>http://localhost:1377/l/1699609736/</link>
+      <pubDate>Fri, 10 Nov 2023 09:48:56 +0000</pubDate>
+      <guid>http://localhost:1377/l/1699609736/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>solo</title>
+      <link>http://localhost:1377/l/1428351078/</link>
+      <pubDate>Mon, 06 Apr 2015 20:11:18 +0000</pubDate>
+      <guid>http://localhost:1377/l/1428351078/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

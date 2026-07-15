@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bob Dylan on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/bob-dylan/</link>
+    <description>Recent content in Bob Dylan on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 30 Aug 2025 18:38:04 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/bob-dylan/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Highway 61 Revisited</title>
+      <link>http://localhost:1377/l/1756579084/</link>
+      <pubDate>Sat, 30 Aug 2025 18:38:04 +0000</pubDate>
+      <guid>http://localhost:1377/l/1756579084/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Saved</title>
+      <link>http://localhost:1377/l/1750410026/</link>
+      <pubDate>Fri, 20 Jun 2025 09:00:26 +0000</pubDate>
+      <guid>http://localhost:1377/l/1750410026/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Self Portrait</title>
+      <link>http://localhost:1377/l/1749376602/</link>
+      <pubDate>Sun, 08 Jun 2025 09:56:42 +0000</pubDate>
+      <guid>http://localhost:1377/l/1749376602/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The Freewheelin&#39; Bob Dylan [Mono]</title>
+      <link>http://localhost:1377/l/1416492062/</link>
+      <pubDate>Thu, 20 Nov 2014 14:01:02 +0000</pubDate>
+      <guid>http://localhost:1377/l/1416492062/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The Times They Are A-Changin&#39; [Mono]</title>
+      <link>http://localhost:1377/l/1409416183/</link>
+      <pubDate>Sat, 30 Aug 2014 16:29:43 +0000</pubDate>
+      <guid>http://localhost:1377/l/1409416183/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The Freewheelin&#39; Bob Dylan</title>
+      <link>http://localhost:1377/l/1375096949/</link>
+      <pubDate>Mon, 29 Jul 2013 11:22:29 +0000</pubDate>
+      <guid>http://localhost:1377/l/1375096949/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bob Dylan</title>
+      <link>http://localhost:1377/l/1375096324/</link>
+      <pubDate>Mon, 29 Jul 2013 11:12:04 +0000</pubDate>
+      <guid>http://localhost:1377/l/1375096324/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

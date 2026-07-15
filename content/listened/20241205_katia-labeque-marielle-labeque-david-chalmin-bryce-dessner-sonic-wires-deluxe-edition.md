@@ -1,9 +1,0 @@
----
-title: "Sonic Wires (Deluxe Edition)"
-slug: "katia-labeque-marielle-labeque-david-chalmin-bryce-dessner-sonic-wires-deluxe-edition"
-date: "2024-12-05T10:12:09.000Z"
-artist: "Katia Labèque, Marielle Labèque, David Chalmin, Bryce Dessner"
-external: "https://www.last.fm/music/Katia+Lab%C3%A8que%2C+Marielle+Lab%C3%A8que%2C+David+Chalmin%2C+Bryce+Dessner/Sonic+Wires+(Deluxe+Edition)"
-hasSummary: false
----
-

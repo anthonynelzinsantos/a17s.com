@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Joe Armon-Jones on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/joe-armon-jones/</link>
+    <description>Recent content in Joe Armon-Jones on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 22 May 2025 13:31:32 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/joe-armon-jones/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>All The Quiet (Part I)</title>
+      <link>http://localhost:1377/l/1747920692/</link>
+      <pubDate>Thu, 22 May 2025 13:31:32 +0000</pubDate>
+      <guid>http://localhost:1377/l/1747920692/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sorrow</title>
+      <link>http://localhost:1377/l/1734354932/</link>
+      <pubDate>Mon, 16 Dec 2024 13:15:32 +0000</pubDate>
+      <guid>http://localhost:1377/l/1734354932/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Archetype</title>
+      <link>http://localhost:1377/l/1687270076/</link>
+      <pubDate>Tue, 20 Jun 2023 14:07:56 +0000</pubDate>
+      <guid>http://localhost:1377/l/1687270076/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

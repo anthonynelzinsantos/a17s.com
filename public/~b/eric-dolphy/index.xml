@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eric Dolphy on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/eric-dolphy/</link>
+    <description>Recent content in Eric Dolphy on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 25 Oct 2013 09:00:47 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/eric-dolphy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Outward Bound</title>
+      <link>http://localhost:1377/l/1382691647/</link>
+      <pubDate>Fri, 25 Oct 2013 09:00:47 +0000</pubDate>
+      <guid>http://localhost:1377/l/1382691647/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Out to Lunch!</title>
+      <link>http://localhost:1377/l/1382628054/</link>
+      <pubDate>Thu, 24 Oct 2013 15:20:54 +0000</pubDate>
+      <guid>http://localhost:1377/l/1382628054/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fire Waltz</title>
+      <link>http://localhost:1377/l/1382516563/</link>
+      <pubDate>Wed, 23 Oct 2013 08:22:43 +0000</pubDate>
+      <guid>http://localhost:1377/l/1382516563/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Out There</title>
+      <link>http://localhost:1377/l/1380996831/</link>
+      <pubDate>Sat, 05 Oct 2013 18:13:51 +0000</pubDate>
+      <guid>http://localhost:1377/l/1380996831/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

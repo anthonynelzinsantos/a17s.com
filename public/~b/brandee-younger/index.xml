@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brandee Younger on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/brandee-younger/</link>
+    <description>Recent content in Brandee Younger on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 13 Jun 2025 15:41:14 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/brandee-younger/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gadabout Season</title>
+      <link>http://localhost:1377/l/1749829274/</link>
+      <pubDate>Fri, 13 Jun 2025 15:41:14 +0000</pubDate>
+      <guid>http://localhost:1377/l/1749829274/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Serenity: A Collection Of Mindful Meditations</title>
+      <link>http://localhost:1377/l/1725458158/</link>
+      <pubDate>Wed, 04 Sep 2024 13:55:58 +0000</pubDate>
+      <guid>http://localhost:1377/l/1725458158/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Brand New Life</title>
+      <link>http://localhost:1377/l/1681325952/</link>
+      <pubDate>Wed, 12 Apr 2023 18:59:12 +0000</pubDate>
+      <guid>http://localhost:1377/l/1681325952/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

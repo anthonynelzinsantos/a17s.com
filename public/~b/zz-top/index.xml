@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ZZ Top on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/zz-top/</link>
+    <description>Recent content in ZZ Top on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 15 May 2013 15:18:31 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/zz-top/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tres Hombres</title>
+      <link>http://localhost:1377/l/1368631111/</link>
+      <pubDate>Wed, 15 May 2013 15:18:31 +0000</pubDate>
+      <guid>http://localhost:1377/l/1368631111/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

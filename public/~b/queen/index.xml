@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Queen on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/queen/</link>
+    <description>Recent content in Queen on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 30 Jun 2025 12:45:43 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/queen/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Game</title>
+      <link>http://localhost:1377/l/1751287543/</link>
+      <pubDate>Mon, 30 Jun 2025 12:45:43 +0000</pubDate>
+      <guid>http://localhost:1377/l/1751287543/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Greatest Hits I II &amp; III (The Platinum Collection)</title>
+      <link>http://localhost:1377/l/1732460439/</link>
+      <pubDate>Sun, 24 Nov 2024 15:00:39 +0000</pubDate>
+      <guid>http://localhost:1377/l/1732460439/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

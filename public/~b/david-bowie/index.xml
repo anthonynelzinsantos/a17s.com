@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>David Bowie on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/david-bowie/</link>
+    <description>Recent content in David Bowie on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 11 Jun 2025 08:29:59 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/david-bowie/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Rise and Fall of Ziggy Stardust and the Spiders From Mars</title>
+      <link>http://localhost:1377/l/1749630599/</link>
+      <pubDate>Wed, 11 Jun 2025 08:29:59 +0000</pubDate>
+      <guid>http://localhost:1377/l/1749630599/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Let&#39;s Dance (2018 remaster)</title>
+      <link>http://localhost:1377/l/1710149376/</link>
+      <pubDate>Mon, 11 Mar 2024 09:29:36 +0000</pubDate>
+      <guid>http://localhost:1377/l/1710149376/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Best of Bowie</title>
+      <link>http://localhost:1377/l/1443533225/</link>
+      <pubDate>Tue, 29 Sep 2015 13:27:05 +0000</pubDate>
+      <guid>http://localhost:1377/l/1443533225/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

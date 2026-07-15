@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wilco on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/wilco/</link>
+    <description>Recent content in Wilco on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 16 Jul 2025 12:01:32 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/wilco/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Star Wars</title>
+      <link>http://localhost:1377/l/1752667292/</link>
+      <pubDate>Wed, 16 Jul 2025 12:01:32 +0000</pubDate>
+      <guid>http://localhost:1377/l/1752667292/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

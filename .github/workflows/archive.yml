@@ -42,6 +42,12 @@ jobs:
         if: env.LETTERBOXD_USER != ''
         run: node scripts/fetch-letterboxd.mjs
 
+      # Backfill director + genres onto any film that still lacks them (e.g. one
+      # the RSS fetch just added). Self-skips already-enriched films, so it's a
+      # cheap no-op on most runs. No API key — reads each film's Letterboxd page.
+      - name: Enrich films (directors & genres)
+        run: node scripts/enrich-films.mjs
+
       # StoryGraph has no API — import its CSV export by hand with
       # `node scripts/import-storygraph.mjs <file.csv>` and commit the result.
 

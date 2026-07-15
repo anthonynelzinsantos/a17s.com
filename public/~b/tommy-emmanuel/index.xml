@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tommy Emmanuel on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/tommy-emmanuel/</link>
+    <description>Recent content in Tommy Emmanuel on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 23 Jun 2025 09:36:19 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/tommy-emmanuel/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Just Passing Through</title>
+      <link>http://localhost:1377/l/1750671379/</link>
+      <pubDate>Mon, 23 Jun 2025 09:36:19 +0000</pubDate>
+      <guid>http://localhost:1377/l/1750671379/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Center Stage</title>
+      <link>http://localhost:1377/l/1383907958/</link>
+      <pubDate>Fri, 08 Nov 2013 10:52:38 +0000</pubDate>
+      <guid>http://localhost:1377/l/1383907958/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dare To Be Different</title>
+      <link>http://localhost:1377/l/1372668827/</link>
+      <pubDate>Mon, 01 Jul 2013 08:53:47 +0000</pubDate>
+      <guid>http://localhost:1377/l/1372668827/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Determination</title>
+      <link>http://localhost:1377/l/1366746902/</link>
+      <pubDate>Tue, 23 Apr 2013 19:55:02 +0000</pubDate>
+      <guid>http://localhost:1377/l/1366746902/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Adam O&#39;Farrill on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/adam-ofarrill/</link>
+    <description>Recent content in Adam O&#39;Farrill on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 26 Mar 2026 14:07:38 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/adam-ofarrill/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ELEPHANT</title>
+      <link>http://localhost:1377/l/1774534058/</link>
+      <pubDate>Thu, 26 Mar 2026 14:07:38 +0000</pubDate>
+      <guid>http://localhost:1377/l/1774534058/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>HUESO</title>
+      <link>http://localhost:1377/l/1725264106/</link>
+      <pubDate>Mon, 02 Sep 2024 08:01:46 +0000</pubDate>
+      <guid>http://localhost:1377/l/1725264106/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

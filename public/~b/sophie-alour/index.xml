@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sophie Alour on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/sophie-alour/</link>
+    <description>Recent content in Sophie Alour on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 24 Oct 2023 11:53:40 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/sophie-alour/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Le temps virtuose</title>
+      <link>http://localhost:1377/l/1698148420/</link>
+      <pubDate>Tue, 24 Oct 2023 11:53:40 +0000</pubDate>
+      <guid>http://localhost:1377/l/1698148420/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>La géographie des rêves</title>
+      <link>http://localhost:1377/l/1385463413/</link>
+      <pubDate>Tue, 26 Nov 2013 10:56:53 +0000</pubDate>
+      <guid>http://localhost:1377/l/1385463413/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

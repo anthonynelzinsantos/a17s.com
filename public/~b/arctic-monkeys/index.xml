@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arctic Monkeys on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/arctic-monkeys/</link>
+    <description>Recent content in Arctic Monkeys on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 02 Oct 2013 11:47:58 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/arctic-monkeys/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Humbug</title>
+      <link>http://localhost:1377/l/1380714478/</link>
+      <pubDate>Wed, 02 Oct 2013 11:47:58 +0000</pubDate>
+      <guid>http://localhost:1377/l/1380714478/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Favourite Worst Nightmare</title>
+      <link>http://localhost:1377/l/1380706080/</link>
+      <pubDate>Wed, 02 Oct 2013 09:28:00 +0000</pubDate>
+      <guid>http://localhost:1377/l/1380706080/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AM</title>
+      <link>http://localhost:1377/l/1380701575/</link>
+      <pubDate>Wed, 02 Oct 2013 08:12:55 +0000</pubDate>
+      <guid>http://localhost:1377/l/1380701575/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

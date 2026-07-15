@@ -3,7 +3,8 @@
      `featured: true`. Always links to the item's own page — never straight
      to the external source; that lives on the item page itself. */}}
 {{ $icon := .CurrentSection.Params.icon }}
-{{ $label := .Params.label | default .CurrentSection.Params.itemLabel }}
+{{/* the "on" format taxonomy value is the per-item label (Album, Film, Ebook…) */}}
+{{ $label := or .Params.on .Params.label .CurrentSection.Params.itemLabel }}
 
 {{/* creator shown in gray after the title, uniform across media types */}}
 {{ $sub := or .Params.author .Params.artist .Params.director }}
@@ -15,12 +16,12 @@
       <div class="feature__body">
         <div class="entry__meta">
           <span class="entry__kind">{{ $icon }} {{ $label }}</span>
-          <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Jan 2" }}</time>
+          <time datetime="{{ .Date.Format "2006-01-02" }}">{{ time.Format "Jan 2" .Date }}</time>
         </div>
         <h3 class="feature__title">{{ .Title }}</h3>
         {{ with $sub }}<p class="entry__sub">{{ . }}</p>{{ end }}
         {{ with .Params.rating }}{{ $r := int . }}<p class="entry__rating">{{ strings.Repeat $r "★" }}{{ strings.Repeat (sub 5 $r) "☆" }}</p>{{ end }}
-        {{ with .Params.updated }}<p class="entry__repeat">↻ revisited {{ (time.AsTime .).Format "Jan 2, 2006" }}</p>{{ end }}
+        {{ with .Params.updated }}<p class="entry__repeat">↻ revisited {{ time.Format "Jan 2, 2006" . }}</p>{{ end }}
         {{ if and .Summary (.Params.hasSummary | default true) }}<p class="feature__excerpt">{{ .Summary }}</p>{{ end }}
       </div>
     </a>
@@ -31,8 +32,8 @@
       <span class="row__kind">{{ $icon }} {{ $label }}</span>
       <span class="row__title">{{ .Title }}{{ with $sub }} <span class="row__sub">{{ . }}</span>{{ end }}</span>
       {{ with .Params.rating }}{{ $r := int . }}<span class="row__rating" aria-label="{{ $r }} out of 5">{{ strings.Repeat $r "★" }}</span>{{ end }}
-      {{ with .Params.updated }}<span class="row__repeat" title="Revisited {{ (time.AsTime .).Format "Jan 2, 2006" }}">↻</span>{{ end }}
-      <time class="row__date" datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Jan 2" }}</time>
+      {{ with .Params.updated }}<span class="row__repeat" title="Revisited {{ time.Format "Jan 2, 2006" . }}">↻</span>{{ end }}
+      <time class="row__date" datetime="{{ .Date.Format "2006-01-02" }}">{{ time.Format "Jan 2" .Date }}</time>
     </a>
   </li>
 {{ end }}

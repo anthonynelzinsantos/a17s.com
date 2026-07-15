@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Allen Toussaint on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/allen-toussaint/</link>
+    <description>Recent content in Allen Toussaint on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 01 Jul 2016 09:13:09 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/allen-toussaint/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>American Tunes</title>
+      <link>http://localhost:1377/l/1467364389/</link>
+      <pubDate>Fri, 01 Jul 2016 09:13:09 +0000</pubDate>
+      <guid>http://localhost:1377/l/1467364389/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The Bright Mississippi</title>
+      <link>http://localhost:1377/l/1455892878/</link>
+      <pubDate>Fri, 19 Feb 2016 14:41:18 +0000</pubDate>
+      <guid>http://localhost:1377/l/1455892878/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

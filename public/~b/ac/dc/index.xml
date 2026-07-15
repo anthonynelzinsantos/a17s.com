@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AC/DC on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/ac/dc/</link>
+    <description>Recent content in AC/DC on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2015 10:28:56 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/ac/dc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Highway to Hell</title>
+      <link>http://localhost:1377/l/1445682536/</link>
+      <pubDate>Sat, 24 Oct 2015 10:28:56 +0000</pubDate>
+      <guid>http://localhost:1377/l/1445682536/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Back in Black</title>
+      <link>http://localhost:1377/l/1402659353/</link>
+      <pubDate>Fri, 13 Jun 2014 11:35:53 +0000</pubDate>
+      <guid>http://localhost:1377/l/1402659353/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Black Ice</title>
+      <link>http://localhost:1377/l/1374670337/</link>
+      <pubDate>Wed, 24 Jul 2013 12:52:17 +0000</pubDate>
+      <guid>http://localhost:1377/l/1374670337/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>High Voltage</title>
+      <link>http://localhost:1377/l/1374494082/</link>
+      <pubDate>Mon, 22 Jul 2013 11:54:42 +0000</pubDate>
+      <guid>http://localhost:1377/l/1374494082/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>&#39;74 Jailbreak</title>
+      <link>http://localhost:1377/l/1373821163/</link>
+      <pubDate>Sun, 14 Jul 2013 16:59:23 +0000</pubDate>
+      <guid>http://localhost:1377/l/1373821163/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Powerage</title>
+      <link>http://localhost:1377/l/1366735534/</link>
+      <pubDate>Tue, 23 Apr 2013 16:45:34 +0000</pubDate>
+      <guid>http://localhost:1377/l/1366735534/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

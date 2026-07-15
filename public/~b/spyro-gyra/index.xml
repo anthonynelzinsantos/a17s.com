@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Spyro Gyra on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/spyro-gyra/</link>
+    <description>Recent content in Spyro Gyra on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 05 Oct 2016 13:04:56 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/spyro-gyra/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Rhinebeck Sessions</title>
+      <link>http://localhost:1377/l/1475672696/</link>
+      <pubDate>Wed, 05 Oct 2016 13:04:56 +0000</pubDate>
+      <guid>http://localhost:1377/l/1475672696/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

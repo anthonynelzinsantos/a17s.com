@@ -91,6 +91,10 @@ main { max-width: var(--measure); margin: 0 auto; padding: 0 1.5rem 4rem; }
 .entry__sub { color: var(--muted); margin: .1rem 0; }
 .entry__rating { color: var(--accent); letter-spacing: 1px; margin: .2rem 0 0; }
 .entry__repeat { color: var(--accent); font-size: .82rem; margin: .35rem 0 0; }
+.entry__kind a { color: var(--muted); }
+.entry__kind a:hover { color: var(--ink); }
+.entry__creator { color: var(--accent); }
+.entry__country { margin: 1rem 0 0; color: var(--muted); font-size: .85rem; }
 
 /* ---- section / taxonomy list header ---- */
 .list-header { margin-top: 1.5rem; }

@@ -1,9 +1,0 @@
----
-title: "Variations on a Melancholy Theme"
-slug: "brad-mehldau-orpheus-chamber-orchestra-variations-on-a-melancholy-theme"
-date: "2023-05-04T08:02:38.000Z"
-artist: "Brad Mehldau, Orpheus Chamber Orchestra"
-external: "https://www.last.fm/music/Brad+Mehldau%2C+Orpheus+Chamber+Orchestra/Variations+on+a+Melancholy+Theme"
-hasSummary: false
----
-

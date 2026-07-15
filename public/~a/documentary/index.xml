@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Documentary on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~a/documentary/</link>
+    <description>Recent content in Documentary on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~a/documentary/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linotype: The Film</title>
+      <link>http://localhost:1377/w/1746057600/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1377/w/1746057600/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Don&#39;t Die: The Man Who Wants to Live Forever</title>
+      <link>http://localhost:1377/w/1736726400/</link>
+      <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1377/w/1736726400/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Buy Now! The Shopping Conspiracy</title>
+      <link>http://localhost:1377/w/1732492800/</link>
+      <pubDate>Mon, 25 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1377/w/1732492800/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bach pour tous</title>
+      <link>http://localhost:1377/w/1732233600/</link>
+      <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1377/w/1732233600/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>An Impossible Project</title>
+      <link>http://localhost:1377/w/1726358400/</link>
+      <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1377/w/1726358400/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>California Typewriter</title>
+      <link>http://localhost:1377/w/1725753600/</link>
+      <pubDate>Sun, 08 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1377/w/1725753600/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>La Chose Politique – Acte 1</title>
+      <link>http://localhost:1377/w/1654387200/</link>
+      <pubDate>Sun, 05 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1377/w/1654387200/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

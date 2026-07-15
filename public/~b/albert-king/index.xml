@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Albert King on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/albert-king/</link>
+    <description>Recent content in Albert King on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 14 Nov 2013 11:10:54 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/albert-king/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>King Of The Blues Guitar</title>
+      <link>http://localhost:1377/l/1384427454/</link>
+      <pubDate>Thu, 14 Nov 2013 11:10:54 +0000</pubDate>
+      <guid>http://localhost:1377/l/1384427454/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kind Albert / New Orleans Heat</title>
+      <link>http://localhost:1377/l/1378210560/</link>
+      <pubDate>Tue, 03 Sep 2013 12:16:00 +0000</pubDate>
+      <guid>http://localhost:1377/l/1378210560/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Born Under A Bad Sign</title>
+      <link>http://localhost:1377/l/1371815958/</link>
+      <pubDate>Fri, 21 Jun 2013 11:59:18 +0000</pubDate>
+      <guid>http://localhost:1377/l/1371815958/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>I&#39;m in a Phone Booth Baby</title>
+      <link>http://localhost:1377/l/1371215741/</link>
+      <pubDate>Fri, 14 Jun 2013 13:15:41 +0000</pubDate>
+      <guid>http://localhost:1377/l/1371215741/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

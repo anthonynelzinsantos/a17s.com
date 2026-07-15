@@ -43,7 +43,8 @@ for (const it of items) {
   if (!filmTitle || !pubDate) continue;
   results.push(await writeEntry({
     date: new Date(pubDate),
-    section: "watched",           // default label "Film"
+    section: "Watched",           // default label "Film"
+    on: "Film",
     title: filmTitle,
     year: year ? Number(year) : undefined,
     rating: rating ? Math.round(Number(rating)) : undefined,

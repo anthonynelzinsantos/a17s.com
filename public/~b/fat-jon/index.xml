@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fat Jon on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/fat-jon/</link>
+    <description>Recent content in Fat Jon on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 30 Oct 2015 14:42:52 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/fat-jon/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Samurai Champloo Music Record: Impression</title>
+      <link>http://localhost:1377/l/1446216172/</link>
+      <pubDate>Fri, 30 Oct 2015 14:42:52 +0000</pubDate>
+      <guid>http://localhost:1377/l/1446216172/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Samurai Champloo Music Record: Departure</title>
+      <link>http://localhost:1377/l/1446113895/</link>
+      <pubDate>Thu, 29 Oct 2015 10:18:15 +0000</pubDate>
+      <guid>http://localhost:1377/l/1446113895/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

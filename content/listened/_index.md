@@ -1,6 +1,6 @@
 ---
 title: "Listened"
-weight: 30
-params: { icon: "🎵", itemLabel: "Album" }
+weight: 10
+params: { icon: "🎵", itemLabel: "Album", repeatVerb: "Re-listened" }
 ---
 Albums I've spent time with.

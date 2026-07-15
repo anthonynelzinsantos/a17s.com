@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Casey Abrams on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/casey-abrams/</link>
+    <description>Recent content in Casey Abrams on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 17 Apr 2013 11:00:44 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/casey-abrams/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Casey Abrams</title>
+      <link>http://localhost:1377/l/1366196444/</link>
+      <pubDate>Wed, 17 Apr 2013 11:00:44 +0000</pubDate>
+      <guid>http://localhost:1377/l/1366196444/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

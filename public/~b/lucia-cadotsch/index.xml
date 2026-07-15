@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lucia Cadotsch on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/lucia-cadotsch/</link>
+    <description>Recent content in Lucia Cadotsch on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 12 Sep 2023 11:26:08 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/lucia-cadotsch/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Speak Low II</title>
+      <link>http://localhost:1377/l/1694517968/</link>
+      <pubDate>Tue, 12 Sep 2023 11:26:08 +0000</pubDate>
+      <guid>http://localhost:1377/l/1694517968/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AKI</title>
+      <link>http://localhost:1377/l/1694506796/</link>
+      <pubDate>Tue, 12 Sep 2023 08:19:56 +0000</pubDate>
+      <guid>http://localhost:1377/l/1694506796/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

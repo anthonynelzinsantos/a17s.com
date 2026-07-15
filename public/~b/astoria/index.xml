@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Astoria on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/astoria/</link>
+    <description>Recent content in Astoria on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 23 May 2023 08:48:04 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/astoria/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tango</title>
+      <link>http://localhost:1377/l/1684831684/</link>
+      <pubDate>Tue, 23 May 2023 08:48:04 +0000</pubDate>
+      <guid>http://localhost:1377/l/1684831684/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Astor Piazzolla: Adios Noniño</title>
+      <link>http://localhost:1377/l/1684663483/</link>
+      <pubDate>Sun, 21 May 2023 10:04:43 +0000</pubDate>
+      <guid>http://localhost:1377/l/1684663483/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ashley Henry on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/ashley-henry/</link>
+    <description>Recent content in Ashley Henry on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 06 Jan 2025 09:06:46 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/ashley-henry/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Who We Are</title>
+      <link>http://localhost:1377/l/1736154406/</link>
+      <pubDate>Mon, 06 Jan 2025 09:06:46 +0000</pubDate>
+      <guid>http://localhost:1377/l/1736154406/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>My Voice</title>
+      <link>http://localhost:1377/l/1686754647/</link>
+      <pubDate>Wed, 14 Jun 2023 14:57:27 +0000</pubDate>
+      <guid>http://localhost:1377/l/1686754647/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

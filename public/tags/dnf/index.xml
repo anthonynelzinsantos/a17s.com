@@ -10,16 +10,16 @@
     <atom:link href="http://localhost:1377/tags/dnf/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cunk on Life</title>
-      <link>http://localhost:1377/watched/cunk-on-life/</link>
+      <link>http://localhost:1377/w/1737331200/</link>
       <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1377/watched/cunk-on-life/</guid>
+      <guid>http://localhost:1377/w/1737331200/</guid>
       <description></description>
     </item>
     <item>
       <title>Poor Things</title>
-      <link>http://localhost:1377/watched/poor-things/</link>
+      <link>http://localhost:1377/w/1725667200/</link>
       <pubDate>Sat, 07 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1377/watched/poor-things/</guid>
+      <guid>http://localhost:1377/w/1725667200/</guid>
       <description></description>
     </item>
   </channel>

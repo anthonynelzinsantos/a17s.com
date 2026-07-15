@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chet Baker on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/chet-baker/</link>
+    <description>Recent content in Chet Baker on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 19 Jan 2017 15:39:03 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/chet-baker/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Love for Sale - Live at The Rising Sun Celebrity Jazz Club</title>
+      <link>http://localhost:1377/l/1484840343/</link>
+      <pubDate>Thu, 19 Jan 2017 15:39:03 +0000</pubDate>
+      <guid>http://localhost:1377/l/1484840343/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>In Bologna</title>
+      <link>http://localhost:1377/l/1419863119/</link>
+      <pubDate>Mon, 29 Dec 2014 14:25:19 +0000</pubDate>
+      <guid>http://localhost:1377/l/1419863119/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Groovin&#39; With the Chet Baker Quintet</title>
+      <link>http://localhost:1377/l/1401556315/</link>
+      <pubDate>Sat, 31 May 2014 17:11:55 +0000</pubDate>
+      <guid>http://localhost:1377/l/1401556315/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Darius Jones on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/darius-jones/</link>
+    <description>Recent content in Darius Jones on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 07 Oct 2024 14:18:21 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/darius-jones/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Legend of e&#39;Boi (The Hypervigilant Eye)</title>
+      <link>http://localhost:1377/l/1728310701/</link>
+      <pubDate>Mon, 07 Oct 2024 14:18:21 +0000</pubDate>
+      <guid>http://localhost:1377/l/1728310701/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>fLuXkit Vancouver (its suite but sacred)</title>
+      <link>http://localhost:1377/l/1698222000/</link>
+      <pubDate>Wed, 25 Oct 2023 08:20:00 +0000</pubDate>
+      <guid>http://localhost:1377/l/1698222000/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

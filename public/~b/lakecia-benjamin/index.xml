@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lakecia Benjamin on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/lakecia-benjamin/</link>
+    <description>Recent content in Lakecia Benjamin on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 28 Jun 2026 10:31:06 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/lakecia-benjamin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>We Dream</title>
+      <link>http://localhost:1377/l/1782642666/</link>
+      <pubDate>Sun, 28 Jun 2026 10:31:06 +0000</pubDate>
+      <guid>http://localhost:1377/l/1782642666/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pursuance : The Coltranes</title>
+      <link>http://localhost:1377/l/1720691793/</link>
+      <pubDate>Thu, 11 Jul 2024 09:56:33 +0000</pubDate>
+      <guid>http://localhost:1377/l/1720691793/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Phoenix</title>
+      <link>http://localhost:1377/l/1676213825/</link>
+      <pubDate>Sun, 12 Feb 2023 14:57:05 +0000</pubDate>
+      <guid>http://localhost:1377/l/1676213825/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Necks on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/the-necks/</link>
+    <description>Recent content in The Necks on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 08 Mar 2023 09:35:54 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/the-necks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Travel</title>
+      <link>http://localhost:1377/l/1678268154/</link>
+      <pubDate>Wed, 08 Mar 2023 09:35:54 +0000</pubDate>
+      <guid>http://localhost:1377/l/1678268154/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

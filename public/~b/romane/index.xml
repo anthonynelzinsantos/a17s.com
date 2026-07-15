@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Romane on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/romane/</link>
+    <description>Recent content in Romane on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 02 Mar 2017 16:11:10 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/romane/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tribulations</title>
+      <link>http://localhost:1377/l/1488471070/</link>
+      <pubDate>Thu, 02 Mar 2017 16:11:10 +0000</pubDate>
+      <guid>http://localhost:1377/l/1488471070/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

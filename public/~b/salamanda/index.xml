@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Salamanda on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/salamanda/</link>
+    <description>Recent content in Salamanda on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 08 Jan 2024 12:58:52 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/salamanda/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>In Parallel</title>
+      <link>http://localhost:1377/l/1704718732/</link>
+      <pubDate>Mon, 08 Jan 2024 12:58:52 +0000</pubDate>
+      <guid>http://localhost:1377/l/1704718732/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

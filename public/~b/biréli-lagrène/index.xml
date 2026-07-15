@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Biréli Lagrène on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/bir%C3%A9li-lagr%C3%A8ne/</link>
+    <description>Recent content in Biréli Lagrène on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 06 Apr 2026 13:19:50 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/bir%C3%A9li-lagr%C3%A8ne/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Elegant People</title>
+      <link>http://localhost:1377/l/1775481590/</link>
+      <pubDate>Mon, 06 Apr 2026 13:19:50 +0000</pubDate>
+      <guid>http://localhost:1377/l/1775481590/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Biréli Lagrène plays Loulou Gasté</title>
+      <link>http://localhost:1377/l/1697836368/</link>
+      <pubDate>Fri, 20 Oct 2023 21:12:48 +0000</pubDate>
+      <guid>http://localhost:1377/l/1697836368/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mouvements</title>
+      <link>http://localhost:1377/l/1449268702/</link>
+      <pubDate>Fri, 04 Dec 2015 22:38:22 +0000</pubDate>
+      <guid>http://localhost:1377/l/1449268702/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

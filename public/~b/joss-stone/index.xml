@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Joss Stone on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/joss-stone/</link>
+    <description>Recent content in Joss Stone on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 07 Aug 2015 13:39:55 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/joss-stone/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Water For Your Soul</title>
+      <link>http://localhost:1377/l/1438954795/</link>
+      <pubDate>Fri, 07 Aug 2015 13:39:55 +0000</pubDate>
+      <guid>http://localhost:1377/l/1438954795/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mind, Body &amp; Soul</title>
+      <link>http://localhost:1377/l/1387983921/</link>
+      <pubDate>Wed, 25 Dec 2013 15:05:21 +0000</pubDate>
+      <guid>http://localhost:1377/l/1387983921/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

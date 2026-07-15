@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~a/</link>
+    <description>Recent content in About on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 26 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~a/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Comedy</title>
+      <link>http://localhost:1377/~a/comedy/</link>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1377/~a/comedy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Crime</title>
+      <link>http://localhost:1377/~a/crime/</link>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1377/~a/crime/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Thriller</title>
+      <link>http://localhost:1377/~a/thriller/</link>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1377/~a/thriller/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Drama</title>
+      <link>http://localhost:1377/~a/drama/</link>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1377/~a/drama/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Adventure</title>
+      <link>http://localhost:1377/~a/adventure/</link>
+      <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1377/~a/adventure/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fantasy</title>
+      <link>http://localhost:1377/~a/fantasy/</link>
+      <pubDate>Sat, 23 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1377/~a/fantasy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Romance</title>
+      <link>http://localhost:1377/~a/romance/</link>
+      <pubDate>Sat, 23 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1377/~a/romance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Music</title>
+      <link>http://localhost:1377/~a/music/</link>
+      <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1377/~a/music/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Action</title>
+      <link>http://localhost:1377/~a/action/</link>
+      <pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1377/~a/action/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Science-Fiction</title>
+      <link>http://localhost:1377/~a/science-fiction/</link>
+      <pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1377/~a/science-fiction/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mystery</title>
+      <link>http://localhost:1377/~a/mystery/</link>
+      <pubDate>Sat, 13 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1377/~a/mystery/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Family</title>
+      <link>http://localhost:1377/~a/family/</link>
+      <pubDate>Sat, 29 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1377/~a/family/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>History</title>
+      <link>http://localhost:1377/~a/history/</link>
+      <pubDate>Sun, 23 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1377/~a/history/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Animation</title>
+      <link>http://localhost:1377/~a/animation/</link>
+      <pubDate>Sun, 28 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1377/~a/animation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Documentary</title>
+      <link>http://localhost:1377/~a/documentary/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1377/~a/documentary/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tv-Movie</title>
+      <link>http://localhost:1377/~a/tv-movie/</link>
+      <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1377/~a/tv-movie/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Blue Van on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/the-blue-van/</link>
+    <description>Recent content in The Blue Van on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 04 Nov 2013 21:45:07 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/the-blue-van/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Man Up</title>
+      <link>http://localhost:1377/l/1383601507/</link>
+      <pubDate>Mon, 04 Nov 2013 21:45:07 +0000</pubDate>
+      <guid>http://localhost:1377/l/1383601507/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

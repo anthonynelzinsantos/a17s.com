@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pierre De Bethmann Quartet on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/pierre-de-bethmann-quartet/</link>
+    <description>Recent content in Pierre De Bethmann Quartet on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 30 Jan 2025 11:09:03 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/pierre-de-bethmann-quartet/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Agapé</title>
+      <link>http://localhost:1377/l/1738235343/</link>
+      <pubDate>Thu, 30 Jan 2025 11:09:03 +0000</pubDate>
+      <guid>http://localhost:1377/l/1738235343/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Credo (feat. David El-Malek)</title>
+      <link>http://localhost:1377/l/1707387176/</link>
+      <pubDate>Thu, 08 Feb 2024 10:12:56 +0000</pubDate>
+      <guid>http://localhost:1377/l/1707387176/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Go</title>
+      <link>http://localhost:1377/l/1688371246/</link>
+      <pubDate>Mon, 03 Jul 2023 08:00:46 +0000</pubDate>
+      <guid>http://localhost:1377/l/1688371246/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

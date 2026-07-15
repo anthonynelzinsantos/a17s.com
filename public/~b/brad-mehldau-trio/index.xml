@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brad Mehldau Trio on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/brad-mehldau-trio/</link>
+    <description>Recent content in Brad Mehldau Trio on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 22 May 2023 11:32:23 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/brad-mehldau-trio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Seymour Reads the Constitution!</title>
+      <link>http://localhost:1377/l/1684755143/</link>
+      <pubDate>Mon, 22 May 2023 11:32:23 +0000</pubDate>
+      <guid>http://localhost:1377/l/1684755143/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ode</title>
+      <link>http://localhost:1377/l/1683295549/</link>
+      <pubDate>Fri, 05 May 2023 14:05:49 +0000</pubDate>
+      <guid>http://localhost:1377/l/1683295549/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Brad Mehldau Trio: Live</title>
+      <link>http://localhost:1377/l/1683041826/</link>
+      <pubDate>Tue, 02 May 2023 15:37:06 +0000</pubDate>
+      <guid>http://localhost:1377/l/1683041826/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Blues and Ballads</title>
+      <link>http://localhost:1377/l/1467292835/</link>
+      <pubDate>Thu, 30 Jun 2016 13:20:35 +0000</pubDate>
+      <guid>http://localhost:1377/l/1467292835/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

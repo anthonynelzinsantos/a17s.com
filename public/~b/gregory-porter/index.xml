@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gregory Porter on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/gregory-porter/</link>
+    <description>Recent content in Gregory Porter on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 04 Nov 2023 10:31:24 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/gregory-porter/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Christmas Wish</title>
+      <link>http://localhost:1377/l/1699093884/</link>
+      <pubDate>Sat, 04 Nov 2023 10:31:24 +0000</pubDate>
+      <guid>http://localhost:1377/l/1699093884/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>All Rise (Deluxe Video Album)</title>
+      <link>http://localhost:1377/l/1677594826/</link>
+      <pubDate>Tue, 28 Feb 2023 14:33:46 +0000</pubDate>
+      <guid>http://localhost:1377/l/1677594826/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Take Me To The Alley</title>
+      <link>http://localhost:1377/l/1463142489/</link>
+      <pubDate>Fri, 13 May 2016 12:28:09 +0000</pubDate>
+      <guid>http://localhost:1377/l/1463142489/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Liquid Spirit</title>
+      <link>http://localhost:1377/l/1384177184/</link>
+      <pubDate>Mon, 11 Nov 2013 13:39:44 +0000</pubDate>
+      <guid>http://localhost:1377/l/1384177184/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

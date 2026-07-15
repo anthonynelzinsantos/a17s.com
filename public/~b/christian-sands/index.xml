@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Christian Sands on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/christian-sands/</link>
+    <description>Recent content in Christian Sands on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 04 Sep 2025 13:09:37 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/christian-sands/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Take One - Live at Jazzhus Montmartre, Copenhagen</title>
+      <link>http://localhost:1377/l/1756991377/</link>
+      <pubDate>Thu, 04 Sep 2025 13:09:37 +0000</pubDate>
+      <guid>http://localhost:1377/l/1756991377/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Christmas Stories (Deluxe Edition)</title>
+      <link>http://localhost:1377/l/1734514652/</link>
+      <pubDate>Wed, 18 Dec 2024 09:37:32 +0000</pubDate>
+      <guid>http://localhost:1377/l/1734514652/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Embracing Dawn</title>
+      <link>http://localhost:1377/l/1727789983/</link>
+      <pubDate>Tue, 01 Oct 2024 13:39:43 +0000</pubDate>
+      <guid>http://localhost:1377/l/1727789983/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Christmas Stories</title>
+      <link>http://localhost:1377/l/1701979597/</link>
+      <pubDate>Thu, 07 Dec 2023 20:06:37 +0000</pubDate>
+      <guid>http://localhost:1377/l/1701979597/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

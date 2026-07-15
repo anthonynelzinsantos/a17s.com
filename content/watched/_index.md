@@ -1,6 +1,6 @@
 ---
 title: "Watched"
-weight: 20
-params: { icon: "🎬", itemLabel: "Film" }
+weight: 30
+params: { icon: "🎬", itemLabel: "Film", repeatVerb: "Re-watched" }
 ---
 Films and television.

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Joshua Redman on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/joshua-redman/</link>
+    <description>Recent content in Joshua Redman on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 25 Jun 2025 14:52:58 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/joshua-redman/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Words Fall Short</title>
+      <link>http://localhost:1377/l/1750863178/</link>
+      <pubDate>Wed, 25 Jun 2025 14:52:58 +0000</pubDate>
+      <guid>http://localhost:1377/l/1750863178/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Nearness</title>
+      <link>http://localhost:1377/l/1677849268/</link>
+      <pubDate>Fri, 03 Mar 2023 13:14:28 +0000</pubDate>
+      <guid>http://localhost:1377/l/1677849268/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The Bad Plus Joshua Redman</title>
+      <link>http://localhost:1377/l/1455805689/</link>
+      <pubDate>Thu, 18 Feb 2016 14:28:09 +0000</pubDate>
+      <guid>http://localhost:1377/l/1455805689/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

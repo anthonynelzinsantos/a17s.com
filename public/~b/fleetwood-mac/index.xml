@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fleetwood Mac on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/fleetwood-mac/</link>
+    <description>Recent content in Fleetwood Mac on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 25 May 2013 18:24:24 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/fleetwood-mac/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Live</title>
+      <link>http://localhost:1377/l/1369506264/</link>
+      <pubDate>Sat, 25 May 2013 18:24:24 +0000</pubDate>
+      <guid>http://localhost:1377/l/1369506264/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mr. Wonderful</title>
+      <link>http://localhost:1377/l/1369470866/</link>
+      <pubDate>Sat, 25 May 2013 08:34:26 +0000</pubDate>
+      <guid>http://localhost:1377/l/1369470866/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

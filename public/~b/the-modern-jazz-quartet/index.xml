@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Modern Jazz Quartet on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/the-modern-jazz-quartet/</link>
+    <description>Recent content in The Modern Jazz Quartet on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 19 Aug 2024 14:36:13 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/the-modern-jazz-quartet/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pyramid</title>
+      <link>http://localhost:1377/l/1724078173/</link>
+      <pubDate>Mon, 19 Aug 2024 14:36:13 +0000</pubDate>
+      <guid>http://localhost:1377/l/1724078173/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Blues On Bach</title>
+      <link>http://localhost:1377/l/1483526461/</link>
+      <pubDate>Wed, 04 Jan 2017 10:41:01 +0000</pubDate>
+      <guid>http://localhost:1377/l/1483526461/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

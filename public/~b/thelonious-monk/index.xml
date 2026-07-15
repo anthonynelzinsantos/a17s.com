@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thelonious Monk on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/thelonious-monk/</link>
+    <description>Recent content in Thelonious Monk on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 13 Jun 2025 12:11:44 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/thelonious-monk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Thelonious Himself</title>
+      <link>http://localhost:1377/l/1749816704/</link>
+      <pubDate>Fri, 13 Jun 2025 12:11:44 +0000</pubDate>
+      <guid>http://localhost:1377/l/1749816704/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Thelonious Alone in San Francisco</title>
+      <link>http://localhost:1377/l/1377252924/</link>
+      <pubDate>Fri, 23 Aug 2013 10:15:24 +0000</pubDate>
+      <guid>http://localhost:1377/l/1377252924/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

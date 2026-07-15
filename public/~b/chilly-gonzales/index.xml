@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chilly Gonzales on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/chilly-gonzales/</link>
+    <description>Recent content in Chilly Gonzales on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 15 Jan 2025 12:57:01 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/chilly-gonzales/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Solo Piano 20th Anniversary (Live in Paris)</title>
+      <link>http://localhost:1377/l/1736945821/</link>
+      <pubDate>Wed, 15 Jan 2025 12:57:01 +0000</pubDate>
+      <guid>http://localhost:1377/l/1736945821/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Solo Piano II</title>
+      <link>http://localhost:1377/l/1404306554/</link>
+      <pubDate>Wed, 02 Jul 2014 13:09:14 +0000</pubDate>
+      <guid>http://localhost:1377/l/1404306554/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

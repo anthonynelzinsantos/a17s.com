@@ -34,21 +34,22 @@ export function slugify(s) {
     .slice(0, 60).replace(/-+$/, ""); // and again after the length cap
 }
 
-// Section -> the tag we stamp on an item the second time we see it. Doubles as
-// a browsable "things I returned to" page at /tags/re-listened/ etc.
+// Section (= folder name) -> the tag we stamp on an item the second time we see
+// it. Doubles as a browsable "things I returned to" page at /tags/re-listened/.
 function repeatTag(section) {
-  return ({ read: "re-read", watched: "re-watched", listened: "re-listened", visited: "re-visited" })[section]
-    || "revisited";
+  return ({ Read: "re-read", Watched: "re-watched", Listened: "re-listened" })[section] || "revisited";
 }
 
-// Section -> the "main creator" field that leads the slug (and the display).
-const CREATOR = { read: "author", watched: "director", listened: "artist" };
+// Section -> the "main creator" field that leads the content identity.
+const CREATOR = { Read: "author", Watched: "director", Listened: "artist" };
 
-// The URL slug: "<creator>-<title>" when we have a creator, else just the title.
-// e.g. miles-davis-kind-of-blue, min-jin-lee-pachinko, wim-wenders-perfect-days.
+// An item's *content identity*: "<creator>-<title>" when we have a creator, else
+// just the title — e.g. miles-davis-kind-of-blue. This is NOT the URL (that's the
+// date's epoch); it's how we recognise an item we've already archived, so a
+// re-listen updates it instead of forking a new page.
 // Parts that slugify to nothing (e.g. a purely non-Latin name) are dropped; if
-// everything drops out we fall back to a short stable hash so the slug is never
-// empty and never collides two different items.
+// everything drops out we fall back to a short stable hash so the identity is
+// never empty and never merges two different items.
 export function makeSlug(section, title, params) {
   const creator = params[CREATOR[section]] || "";
   const slug = [creator, title].map(slugify).filter(Boolean).join("-");
@@ -58,24 +59,40 @@ export function makeSlug(section, title, params) {
   return `x-${h}`;
 }
 
-const ymd = (iso) => iso.slice(0, 10).replaceAll("-", "");
-
-// Files are named YYYYMMDD_<slug>.md for on-disk order, but the URL comes from
-// the `slug` front-matter field. To find an item again (for repeats) we index a
-// section dir by slug once, then keep it in sync. Cache is per-process.
-const _index = new Map();  // dir -> Map(slug -> filename)
-async function indexFor(dir) {
+// An item's file name AND slug are the UNIX epoch (seconds) of its original
+// date, so every URL has the same length. Seconds match the real precision of
+// the sources (Last.fm scrobbles are second-granular; books/films are dated to
+// the day), so sub-second digits would be pure zero-padding. That makes the file
+// name opaque, so to find an item again (for repeats) we index a section by a
+// *content identity* — the creator+title slug — read from each file's front
+// matter. Cache is per-process.
+const _index = new Map();  // dir -> { byIdentity: Map(identity -> file), used: Set(file) }
+async function indexFor(dir, section) {
   if (_index.has(dir)) return _index.get(dir);
-  const m = new Map();
+  const byIdentity = new Map(), used = new Set();
   let files = [];
   try { files = await readdir(dir); } catch { /* new section */ }
   for (const f of files) {
     if (!f.endsWith(".md") || f === "_index.md") continue;
-    const u = f.indexOf("_");
-    m.set(f.slice(u + 1, -3), f);   // slug is everything after the date prefix
+    used.add(f);
+    try {
+      const { data } = parseFrontMatter(await readFile(path.join(dir, f), "utf8"));
+      if (data.title) byIdentity.set(makeSlug(section, data.title, data), f);
+    } catch { /* unreadable → skip */ }
   }
-  _index.set(dir, m);
-  return m;
+  const idx = { byIdentity, used };
+  _index.set(dir, idx);
+  return idx;
+}
+
+// The UNIX epoch (seconds) of a Date.
+const epochOf = (d) => Math.floor(d.getTime() / 1000);
+
+// Two items can share a second (books/films are dated to the day, i.e. midnight),
+// so walk forward a second at a time until the epoch is free.
+function freeEpoch(used, epoch) {
+  while (used.has(`${epoch}.md`)) epoch++;
+  return epoch;
 }
 
 function yaml(v) {
@@ -86,7 +103,7 @@ function yaml(v) {
 
 // Our writer emits `key: <json-value>` lines, so parsing our own files back is
 // just JSON.parse per value — no YAML library needed.
-function parseFrontMatter(text) {
+export function parseFrontMatter(text) {
   const m = text.match(/^---\n([\s\S]*?)\n---\n?([\s\S]*)$/);
   if (!m) return { data: {}, body: text };
   const data = {};
@@ -100,10 +117,10 @@ function parseFrontMatter(text) {
   return { data, body: m[2] };
 }
 
-const ORDER = ["title", "slug", "date", "updated", "label", "featured", "image",
-  "author", "artist", "director", "year", "rating", "external", "hasSummary", "tags"];
+const ORDER = ["title", "slug", "date", "updated", "on", "label", "featured", "image",
+  "author", "artist", "director", "by", "year", "rating", "about", "from", "external", "hasSummary", "tags"];
 
-function serialize(data, body) {
+export function serialize(data, body) {
   const keys = [...ORDER.filter((k) => k in data),
     ...Object.keys(data).filter((k) => !ORDER.includes(k))];
   const lines = ["---"];
@@ -116,27 +133,32 @@ function serialize(data, body) {
   return lines.join("\n");
 }
 
-// Writes one entry into content/<section>/ as YYYYMMDD_<slug>.md, with the clean
-// `slug` in front matter driving the URL. `date` must be a Date.
-//   • first time we see a slug  → create it, `date` = when it happened
+// Writes one entry into content/<section>/ as <epoch>.md, where <epoch> is the
+// UNIX time in seconds of the original date — that same epoch is the `slug`
+// driving the URL, so every URL is the same length. `date` must be a Date.
+//   • first time we see an item → create it, `date` = when it happened
 //   • a LATER occurrence        → keep the original `date`, set `updated` to the
 //                                 newest occurrence, add the section's repeat tag
-//   • an EARLIER occurrence      → move `date` back (and rename the file's prefix)
-//   • a duplicate in-between      → no-op
+//   • an EARLIER occurrence     → move `date` back (the epoch/slug follows it)
+//   • a duplicate in-between    → no-op
 // So a re-listen / rewatch enriches the one canonical URL instead of forking it.
+// Items are matched by content identity (creator+title), not by file name.
 // Returns { status: "created" | "updated" | "unchanged", name }.
-export async function writeEntry({ date, section, title, body = "", slug, ...params }) {
+export async function writeEntry({ date, section, title, body = "", ...params }) {
   const dir = path.join(CONTENT_DIR, section);
   await mkdir(dir, { recursive: true });
   const iso = date.toISOString();
-  slug = slug || makeSlug(section, title, params);
-  const index = await indexFor(dir);
+  const identity = makeSlug(section, title, params);
+  const idx = await indexFor(dir, section);
 
-  const existing = index.get(slug);
+  const existing = idx.byIdentity.get(identity);
   if (!existing) {
-    const name = `${ymd(iso)}_${slug}.md`;
-    await writeFile(path.join(dir, name), serialize({ title, date: iso, slug, ...params }, body));
-    index.set(slug, name);
+    const epoch = freeEpoch(idx.used, epochOf(date));
+    const name = `${epoch}.md`;
+    await writeFile(path.join(dir, name),
+      serialize({ title, slug: String(epoch), date: iso, ...params }, body));
+    idx.byIdentity.set(identity, name);
+    idx.used.add(name);
     return { status: "created", name: `${section}/${name}` };
   }
 
@@ -153,11 +175,15 @@ export async function writeEntry({ date, section, title, body = "", slug, ...par
   if (!tags.includes(tag)) tags.push(tag);
   data.tags = tags;
 
-  // If the canonical date moved earlier, rename the file so its prefix stays true.
+  // The slug is the original date's epoch, so an earlier occurrence moves it.
   let name = existing;
   if (movedEarlier) {
-    name = `${ymd(data.date)}_${slug}.md`;
-    if (name !== existing) { await rm(path.join(dir, existing)); index.set(slug, name); }
+    idx.used.delete(existing);
+    const epoch = freeEpoch(idx.used, epochOf(new Date(data.date)));
+    name = `${epoch}.md`;
+    data.slug = String(epoch);
+    if (name !== existing) { await rm(path.join(dir, existing)); idx.byIdentity.set(identity, name); }
+    idx.used.add(name);
   }
   await writeFile(path.join(dir, name), serialize(data, keepBody));
   return { status: "updated", name: `${section}/${name}` };

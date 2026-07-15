@@ -1,22 +1,50 @@
-baseURL = "https://a17s.example/"
+baseURL = "https://a17s.com/"
 title = "Anthony's Archive"
 timeZone = "Europe/Paris"
+defaultContentLanguage = "en"
 
-# Pull entries per page on the timeline
+# Entries per page on the timeline
 paginate = 50
 
 [params]
-  lang = "en"
-  description = "An archive of the things I've seen, photographed, watched, read and listened to."
+  description = "An archive of what I've listened to, read and watched."
 
-# The media type is now the content section (read/watched/listened/…), so each
-# item lives at its own URL. `tags` stay cross-cutting: one theme (e.g. "japan")
-# can span a book, a film and a photo.
+# Cross-cutting taxonomies. Their URL slugs are prefixed with "~" so they never
+# collide with the one-letter section URLs (/l/, /r/, /w/):
+#   on    → format  (~o : Album, Film, Ebook, Audiobook…)
+#   by    → creator (~b : artists, authors, directors…)
+#   about → genre   (~a)
+#   from  → country of origin (~f)
 [taxonomies]
-  tag = "tags"
+  on    = "on"
+  by    = "by"
+  about = "about"
+  from  = "from"
+  tag   = "tags"
+
+# Content folders keep the readable category names; every URL is set here.
+[permalinks]
+  [permalinks.page]
+    Listened = "/l/:slug/"
+    Read     = "/r/:slug/"
+    Watched  = "/w/:slug/"
+  [permalinks.section]
+    Listened = "/l/"
+    Read     = "/r/"
+    Watched  = "/w/"
+  [permalinks.taxonomy]
+    on    = "/~o/"
+    by    = "/~b/"
+    about = "/~a/"
+    from  = "/~f/"
+  [permalinks.term]
+    on    = "/~o/:slug/"
+    by    = "/~b/:slug/"
+    about = "/~a/:slug/"
+    from  = "/~f/:slug/"
 
 [markup.goldmark.renderer]
-  unsafe = true  # allow raw HTML in entry bodies (e.g. embeds)
+  unsafe = true  # allow raw HTML in entry bodies
 
 [outputs]
   home = ["HTML", "RSS"]

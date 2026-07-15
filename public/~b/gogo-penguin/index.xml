@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GoGo Penguin on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/gogo-penguin/</link>
+    <description>Recent content in GoGo Penguin on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 25 Jun 2025 11:47:04 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/gogo-penguin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Necessary Fictions</title>
+      <link>http://localhost:1377/l/1750852024/</link>
+      <pubDate>Wed, 25 Jun 2025 11:47:04 +0000</pubDate>
+      <guid>http://localhost:1377/l/1750852024/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GoGo Penguin</title>
+      <link>http://localhost:1377/l/1749130651/</link>
+      <pubDate>Thu, 05 Jun 2025 13:37:31 +0000</pubDate>
+      <guid>http://localhost:1377/l/1749130651/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Everything Is Going to Be OK</title>
+      <link>http://localhost:1377/l/1681741506/</link>
+      <pubDate>Mon, 17 Apr 2023 14:25:06 +0000</pubDate>
+      <guid>http://localhost:1377/l/1681741506/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Man Made Object (Deluxe)</title>
+      <link>http://localhost:1377/l/1455616128/</link>
+      <pubDate>Tue, 16 Feb 2016 09:48:48 +0000</pubDate>
+      <guid>http://localhost:1377/l/1455616128/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fanfares</title>
+      <link>http://localhost:1377/l/1446221482/</link>
+      <pubDate>Fri, 30 Oct 2015 16:11:22 +0000</pubDate>
+      <guid>http://localhost:1377/l/1446221482/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>v2.0 (Deluxe Edition)</title>
+      <link>http://localhost:1377/l/1444812728/</link>
+      <pubDate>Wed, 14 Oct 2015 08:52:08 +0000</pubDate>
+      <guid>http://localhost:1377/l/1444812728/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

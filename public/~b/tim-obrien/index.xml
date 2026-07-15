@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tim O&#39;Brien on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/tim-obrien/</link>
+    <description>Recent content in Tim O&#39;Brien on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 19 Jul 2016 15:37:13 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/tim-obrien/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chicken &amp; Egg</title>
+      <link>http://localhost:1377/l/1468942633/</link>
+      <pubDate>Tue, 19 Jul 2016 15:37:13 +0000</pubDate>
+      <guid>http://localhost:1377/l/1468942633/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Enji on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/enji/</link>
+    <description>Recent content in Enji on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 13 May 2025 07:52:32 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/enji/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sonor</title>
+      <link>http://localhost:1377/l/1747122752/</link>
+      <pubDate>Tue, 13 May 2025 07:52:32 +0000</pubDate>
+      <guid>http://localhost:1377/l/1747122752/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ulaan</title>
+      <link>http://localhost:1377/l/1692877719/</link>
+      <pubDate>Thu, 24 Aug 2023 11:48:39 +0000</pubDate>
+      <guid>http://localhost:1377/l/1692877719/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

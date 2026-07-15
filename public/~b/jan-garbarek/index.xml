@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jan Garbarek on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/jan-garbarek/</link>
+    <description>Recent content in Jan Garbarek on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 14 Sep 2024 17:14:04 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/jan-garbarek/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Works</title>
+      <link>http://localhost:1377/l/1726334044/</link>
+      <pubDate>Sat, 14 Sep 2024 17:14:04 +0000</pubDate>
+      <guid>http://localhost:1377/l/1726334044/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

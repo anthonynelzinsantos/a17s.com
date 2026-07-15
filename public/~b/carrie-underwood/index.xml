@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Carrie Underwood on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/carrie-underwood/</link>
+    <description>Recent content in Carrie Underwood on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 20 May 2014 13:06:40 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/carrie-underwood/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Play On</title>
+      <link>http://localhost:1377/l/1400591200/</link>
+      <pubDate>Tue, 20 May 2014 13:06:40 +0000</pubDate>
+      <guid>http://localhost:1377/l/1400591200/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Blown Away</title>
+      <link>http://localhost:1377/l/1366646190/</link>
+      <pubDate>Mon, 22 Apr 2013 15:56:30 +0000</pubDate>
+      <guid>http://localhost:1377/l/1366646190/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

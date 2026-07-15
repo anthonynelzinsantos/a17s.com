@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hackney Colliery Band on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/hackney-colliery-band/</link>
+    <description>Recent content in Hackney Colliery Band on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 30 Aug 2016 09:33:13 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/hackney-colliery-band/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sharpener</title>
+      <link>http://localhost:1377/l/1472549593/</link>
+      <pubDate>Tue, 30 Aug 2016 09:33:13 +0000</pubDate>
+      <guid>http://localhost:1377/l/1472549593/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

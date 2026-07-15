@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lake Street Dive on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/lake-street-dive/</link>
+    <description>Recent content in Lake Street Dive on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 02 Jul 2024 12:46:39 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/lake-street-dive/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Good Together</title>
+      <link>http://localhost:1377/l/1719924399/</link>
+      <pubDate>Tue, 02 Jul 2024 12:46:39 +0000</pubDate>
+      <guid>http://localhost:1377/l/1719924399/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fun Machine</title>
+      <link>http://localhost:1377/l/1460133502/</link>
+      <pubDate>Fri, 08 Apr 2016 16:38:22 +0000</pubDate>
+      <guid>http://localhost:1377/l/1460133502/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Side Pony</title>
+      <link>http://localhost:1377/l/1460120209/</link>
+      <pubDate>Fri, 08 Apr 2016 12:56:49 +0000</pubDate>
+      <guid>http://localhost:1377/l/1460120209/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bad Self Portraits</title>
+      <link>http://localhost:1377/l/1450282486/</link>
+      <pubDate>Wed, 16 Dec 2015 16:14:46 +0000</pubDate>
+      <guid>http://localhost:1377/l/1450282486/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

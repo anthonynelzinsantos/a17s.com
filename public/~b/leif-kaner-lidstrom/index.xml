@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Leif Kaner-Lidstrom on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/leif-kaner-lidstrom/</link>
+    <description>Recent content in Leif Kaner-Lidstrom on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 02 Jul 2026 16:30:42 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/leif-kaner-lidstrom/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>In Search Of Beauty</title>
+      <link>http://localhost:1377/l/1783009842/</link>
+      <pubDate>Thu, 02 Jul 2026 16:30:42 +0000</pubDate>
+      <guid>http://localhost:1377/l/1783009842/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

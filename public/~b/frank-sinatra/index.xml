@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Frank Sinatra on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/frank-sinatra/</link>
+    <description>Recent content in Frank Sinatra on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 18 Jul 2013 14:18:11 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/frank-sinatra/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Classic Sinatra - His Great Performances, 1953-1960</title>
+      <link>http://localhost:1377/l/1374157091/</link>
+      <pubDate>Thu, 18 Jul 2013 14:18:11 +0000</pubDate>
+      <guid>http://localhost:1377/l/1374157091/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

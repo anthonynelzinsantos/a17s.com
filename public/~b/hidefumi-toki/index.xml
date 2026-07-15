@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hidefumi Toki on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/hidefumi-toki/</link>
+    <description>Recent content in Hidefumi Toki on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 11 Mar 2023 21:03:29 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/hidefumi-toki/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Toki</title>
+      <link>http://localhost:1377/l/1678568609/</link>
+      <pubDate>Sat, 11 Mar 2023 21:03:29 +0000</pubDate>
+      <guid>http://localhost:1377/l/1678568609/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

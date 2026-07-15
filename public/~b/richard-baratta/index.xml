@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Richard Baratta on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/richard-baratta/</link>
+    <description>Recent content in Richard Baratta on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 20 Mar 2025 09:48:19 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/richard-baratta/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Looking Back</title>
+      <link>http://localhost:1377/l/1742464099/</link>
+      <pubDate>Thu, 20 Mar 2025 09:48:19 +0000</pubDate>
+      <guid>http://localhost:1377/l/1742464099/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Off the Charts</title>
+      <link>http://localhost:1377/l/1694173783/</link>
+      <pubDate>Fri, 08 Sep 2023 11:49:43 +0000</pubDate>
+      <guid>http://localhost:1377/l/1694173783/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

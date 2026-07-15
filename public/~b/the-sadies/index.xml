@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Sadies on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/the-sadies/</link>
+    <description>Recent content in The Sadies on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 09 Dec 2013 09:55:38 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/the-sadies/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Internal Sounds</title>
+      <link>http://localhost:1377/l/1386582938/</link>
+      <pubDate>Mon, 09 Dec 2013 09:55:38 +0000</pubDate>
+      <guid>http://localhost:1377/l/1386582938/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

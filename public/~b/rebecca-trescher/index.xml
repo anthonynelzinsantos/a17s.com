@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rebecca Trescher on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/rebecca-trescher/</link>
+    <description>Recent content in Rebecca Trescher on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 07 May 2024 08:40:46 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/rebecca-trescher/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Character Pieces</title>
+      <link>http://localhost:1377/l/1715071246/</link>
+      <pubDate>Tue, 07 May 2024 08:40:46 +0000</pubDate>
+      <guid>http://localhost:1377/l/1715071246/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Paris Zyklus (with Silvio Morger, Anton Mangold, Andreas Feith, Juri Kannheiser, Markus Harm, Julian Hesse, Joachim Lenhardt &amp; Roland Neffe)</title>
+      <link>http://localhost:1377/l/1710609133/</link>
+      <pubDate>Sat, 16 Mar 2024 17:12:13 +0000</pubDate>
+      <guid>http://localhost:1377/l/1710609133/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

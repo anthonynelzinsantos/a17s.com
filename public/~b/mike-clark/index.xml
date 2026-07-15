@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mike Clark on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/mike-clark/</link>
+    <description>Recent content in Mike Clark on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 12 Sep 2025 08:57:30 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/mike-clark/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Carnival of Soul</title>
+      <link>http://localhost:1377/l/1757667450/</link>
+      <pubDate>Fri, 12 Sep 2025 08:57:30 +0000</pubDate>
+      <guid>http://localhost:1377/l/1757667450/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mike Clark Plays Herbie Hancock</title>
+      <link>http://localhost:1377/l/1687767656/</link>
+      <pubDate>Mon, 26 Jun 2023 08:20:56 +0000</pubDate>
+      <guid>http://localhost:1377/l/1687767656/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

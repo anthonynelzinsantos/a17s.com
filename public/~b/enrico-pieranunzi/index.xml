@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Enrico Pieranunzi on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/enrico-pieranunzi/</link>
+    <description>Recent content in Enrico Pieranunzi on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 31 Jan 2026 11:47:25 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/enrico-pieranunzi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Improclassica</title>
+      <link>http://localhost:1377/l/1769860045/</link>
+      <pubDate>Sat, 31 Jan 2026 11:47:25 +0000</pubDate>
+      <guid>http://localhost:1377/l/1769860045/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Chet Remembered</title>
+      <link>http://localhost:1377/l/1687784038/</link>
+      <pubDate>Mon, 26 Jun 2023 12:53:58 +0000</pubDate>
+      <guid>http://localhost:1377/l/1687784038/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Blues &amp; Bach - the Music of John Lewis</title>
+      <link>http://localhost:1377/l/1674651367/</link>
+      <pubDate>Wed, 25 Jan 2023 12:56:07 +0000</pubDate>
+      <guid>http://localhost:1377/l/1674651367/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

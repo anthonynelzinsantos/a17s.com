@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cedar Walton on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/cedar-walton/</link>
+    <description>Recent content in Cedar Walton on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 23 Nov 2023 14:37:34 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/cedar-walton/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Trio 2 (2023 Remastered)</title>
+      <link>http://localhost:1377/l/1700750254/</link>
+      <pubDate>Thu, 23 Nov 2023 14:37:34 +0000</pubDate>
+      <guid>http://localhost:1377/l/1700750254/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Blues For Myself (Piano Solo)</title>
+      <link>http://localhost:1377/l/1684616644/</link>
+      <pubDate>Sat, 20 May 2023 21:04:04 +0000</pubDate>
+      <guid>http://localhost:1377/l/1684616644/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>More Blues for Myself (Remastered 1986)</title>
+      <link>http://localhost:1377/l/1684404553/</link>
+      <pubDate>Thu, 18 May 2023 10:09:13 +0000</pubDate>
+      <guid>http://localhost:1377/l/1684404553/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

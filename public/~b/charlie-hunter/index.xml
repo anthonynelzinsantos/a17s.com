@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Charlie Hunter on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/charlie-hunter/</link>
+    <description>Recent content in Charlie Hunter on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 20 Jan 2023 09:23:08 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/charlie-hunter/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Right Now Move (2022 Remaster)</title>
+      <link>http://localhost:1377/l/1674206588/</link>
+      <pubDate>Fri, 20 Jan 2023 09:23:08 +0000</pubDate>
+      <guid>http://localhost:1377/l/1674206588/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Not Getting Behind Is The New Getting Ahead</title>
+      <link>http://localhost:1377/l/1481894046/</link>
+      <pubDate>Fri, 16 Dec 2016 13:14:06 +0000</pubDate>
+      <guid>http://localhost:1377/l/1481894046/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gentlemen, I Neglected To Inform You You Will Not Be Getting Paid</title>
+      <link>http://localhost:1377/l/1472823843/</link>
+      <pubDate>Fri, 02 Sep 2016 13:44:03 +0000</pubDate>
+      <guid>http://localhost:1377/l/1472823843/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Everybody Has A Plan Until They Get Punched In The Mouth</title>
+      <link>http://localhost:1377/l/1471945365/</link>
+      <pubDate>Tue, 23 Aug 2016 09:42:45 +0000</pubDate>
+      <guid>http://localhost:1377/l/1471945365/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

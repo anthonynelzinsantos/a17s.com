@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Steve Gadd Band on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/steve-gadd-band/</link>
+    <description>Recent content in Steve Gadd Band on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 20 Oct 2016 08:43:24 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/steve-gadd-band/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gadditude</title>
+      <link>http://localhost:1377/l/1476953004/</link>
+      <pubDate>Thu, 20 Oct 2016 08:43:24 +0000</pubDate>
+      <guid>http://localhost:1377/l/1476953004/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>70 Strong</title>
+      <link>http://localhost:1377/l/1453371463/</link>
+      <pubDate>Thu, 21 Jan 2016 10:17:43 +0000</pubDate>
+      <guid>http://localhost:1377/l/1453371463/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Samara Joy on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/samara-joy/</link>
+    <description>Recent content in Samara Joy on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 10 Mar 2025 15:51:36 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/samara-joy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Samara Joy</title>
+      <link>http://localhost:1377/l/1741621896/</link>
+      <pubDate>Mon, 10 Mar 2025 15:51:36 +0000</pubDate>
+      <guid>http://localhost:1377/l/1741621896/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>A Joyful Holiday - EP</title>
+      <link>http://localhost:1377/l/1734532157/</link>
+      <pubDate>Wed, 18 Dec 2024 14:29:17 +0000</pubDate>
+      <guid>http://localhost:1377/l/1734532157/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Portrait</title>
+      <link>http://localhost:1377/l/1728905302/</link>
+      <pubDate>Mon, 14 Oct 2024 11:28:22 +0000</pubDate>
+      <guid>http://localhost:1377/l/1728905302/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Linger Awhile</title>
+      <link>http://localhost:1377/l/1676801329/</link>
+      <pubDate>Sun, 19 Feb 2023 10:08:49 +0000</pubDate>
+      <guid>http://localhost:1377/l/1676801329/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

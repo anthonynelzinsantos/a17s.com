@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hans Zimmer on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/hans-zimmer/</link>
+    <description>Recent content in Hans Zimmer on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 29 Jul 2013 10:21:57 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/hans-zimmer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Black Hawk Down [Original Motion Picture Soundtrack]</title>
+      <link>http://localhost:1377/l/1375093317/</link>
+      <pubDate>Mon, 29 Jul 2013 10:21:57 +0000</pubDate>
+      <guid>http://localhost:1377/l/1375093317/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>King Arthur [Original Score]</title>
+      <link>http://localhost:1377/l/1375091945/</link>
+      <pubDate>Mon, 29 Jul 2013 09:59:05 +0000</pubDate>
+      <guid>http://localhost:1377/l/1375091945/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

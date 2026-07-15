@@ -1,9 +1,0 @@
----
-title: "Exile On Main Street [Deluxe Version] [Remastered]"
-slug: "the-rolling-stones-exile-on-main-street-deluxe-version-remastered"
-date: "2013-02-20T16:09:48.000Z"
-artist: "The Rolling Stones"
-external: "https://www.last.fm/music/The+Rolling+Stones/Exile+On+Main+Street+%5BDeluxe+Version%5D+%5BRemastered%5D"
-hasSummary: false
----
-

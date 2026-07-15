@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mark Knopfler on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/mark-knopfler/</link>
+    <description>Recent content in Mark Knopfler on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 04 Sep 2025 07:53:41 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/mark-knopfler/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sailing to Philadelphia</title>
+      <link>http://localhost:1377/l/1756972421/</link>
+      <pubDate>Thu, 04 Sep 2025 07:53:41 +0000</pubDate>
+      <guid>http://localhost:1377/l/1756972421/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>One Deep River</title>
+      <link>http://localhost:1377/l/1714379644/</link>
+      <pubDate>Mon, 29 Apr 2024 08:34:04 +0000</pubDate>
+      <guid>http://localhost:1377/l/1714379644/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tracker</title>
+      <link>http://localhost:1377/l/1427809321/</link>
+      <pubDate>Tue, 31 Mar 2015 13:42:01 +0000</pubDate>
+      <guid>http://localhost:1377/l/1427809321/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Get Lucky</title>
+      <link>http://localhost:1377/l/1377553944/</link>
+      <pubDate>Mon, 26 Aug 2013 21:52:24 +0000</pubDate>
+      <guid>http://localhost:1377/l/1377553944/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

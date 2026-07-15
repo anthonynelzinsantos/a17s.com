@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Academy of St. Martin-in-the-Fields / Sir Neville Marriner on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/academy-of-st.-martin-in-the-fields-/-sir-neville-marriner/</link>
+    <description>Recent content in Academy of St. Martin-in-the-Fields / Sir Neville Marriner on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 08 Sep 2013 12:23:36 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/academy-of-st.-martin-in-the-fields-/-sir-neville-marriner/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Complete Mozart Edition, Volume 2: Symphonies 21-41</title>
+      <link>http://localhost:1377/l/1378643016/</link>
+      <pubDate>Sun, 08 Sep 2013 12:23:36 +0000</pubDate>
+      <guid>http://localhost:1377/l/1378643016/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Complete Mozart Edition, Volume 1: Early Symphonies</title>
+      <link>http://localhost:1377/l/1378287466/</link>
+      <pubDate>Wed, 04 Sep 2013 09:37:46 +0000</pubDate>
+      <guid>http://localhost:1377/l/1378287466/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Complete Mozart Edition, Volume 3: Serenades for Orchestra</title>
+      <link>http://localhost:1377/l/1378241544/</link>
+      <pubDate>Tue, 03 Sep 2013 20:52:24 +0000</pubDate>
+      <guid>http://localhost:1377/l/1378241544/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aretha Franklin on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/aretha-franklin/</link>
+    <description>Recent content in Aretha Franklin on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 07 Feb 2023 20:58:46 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/aretha-franklin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Amazing Grace: The Complete Recordings (Live)</title>
+      <link>http://localhost:1377/l/1675803526/</link>
+      <pubDate>Tue, 07 Feb 2023 20:58:46 +0000</pubDate>
+      <guid>http://localhost:1377/l/1675803526/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Amazing Grace: The Complete Recordings</title>
+      <link>http://localhost:1377/l/1435739833/</link>
+      <pubDate>Wed, 01 Jul 2015 08:37:13 +0000</pubDate>
+      <guid>http://localhost:1377/l/1435739833/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

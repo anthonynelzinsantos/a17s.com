@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web Web on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/web-web/</link>
+    <description>Recent content in Web Web on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 24 May 2026 09:46:58 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/web-web/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kover Kover</title>
+      <link>http://localhost:1377/l/1779616018/</link>
+      <pubDate>Sun, 24 May 2026 09:46:58 +0000</pubDate>
+      <guid>http://localhost:1377/l/1779616018/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Plexus Plexus</title>
+      <link>http://localhost:1377/l/1747052524/</link>
+      <pubDate>Mon, 12 May 2025 12:22:04 +0000</pubDate>
+      <guid>http://localhost:1377/l/1747052524/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

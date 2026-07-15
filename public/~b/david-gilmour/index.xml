@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>David Gilmour on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/david-gilmour/</link>
+    <description>Recent content in David Gilmour on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 22 Sep 2015 13:15:30 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/david-gilmour/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rattle That Lock [Deluxe Edition]</title>
+      <link>http://localhost:1377/l/1442927730/</link>
+      <pubDate>Tue, 22 Sep 2015 13:15:30 +0000</pubDate>
+      <guid>http://localhost:1377/l/1442927730/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>David Gilmour</title>
+      <link>http://localhost:1377/l/1367333612/</link>
+      <pubDate>Tue, 30 Apr 2013 14:53:32 +0000</pubDate>
+      <guid>http://localhost:1377/l/1367333612/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

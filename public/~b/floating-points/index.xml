@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Floating Points on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/floating-points/</link>
+    <description>Recent content in Floating Points on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 16 Sep 2024 11:17:49 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/floating-points/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cascade</title>
+      <link>http://localhost:1377/l/1726485469/</link>
+      <pubDate>Mon, 16 Sep 2024 11:17:49 +0000</pubDate>
+      <guid>http://localhost:1377/l/1726485469/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

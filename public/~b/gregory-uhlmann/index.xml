@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gregory Uhlmann on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/gregory-uhlmann/</link>
+    <description>Recent content in Gregory Uhlmann on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 21 Apr 2026 12:04:14 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/gregory-uhlmann/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Extra Stars</title>
+      <link>http://localhost:1377/l/1776773054/</link>
+      <pubDate>Tue, 21 Apr 2026 12:04:14 +0000</pubDate>
+      <guid>http://localhost:1377/l/1776773054/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Uhlmann Johnson Wilkes</title>
+      <link>http://localhost:1377/l/1744027486/</link>
+      <pubDate>Mon, 07 Apr 2025 12:04:46 +0000</pubDate>
+      <guid>http://localhost:1377/l/1744027486/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

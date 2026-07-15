@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Muddy Waters on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/muddy-waters/</link>
+    <description>Recent content in Muddy Waters on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 20 Apr 2016 15:34:10 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/muddy-waters/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Folk Singer</title>
+      <link>http://localhost:1377/l/1461166450/</link>
+      <pubDate>Wed, 20 Apr 2016 15:34:10 +0000</pubDate>
+      <guid>http://localhost:1377/l/1461166450/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The London Muddy Waters Sessions</title>
+      <link>http://localhost:1377/l/1435858967/</link>
+      <pubDate>Thu, 02 Jul 2015 17:42:47 +0000</pubDate>
+      <guid>http://localhost:1377/l/1435858967/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Folk Singer</title>
+      <link>http://localhost:1377/l/1380999417/</link>
+      <pubDate>Sat, 05 Oct 2013 18:56:57 +0000</pubDate>
+      <guid>http://localhost:1377/l/1380999417/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

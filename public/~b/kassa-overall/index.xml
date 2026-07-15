@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kassa Overall on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/kassa-overall/</link>
+    <description>Recent content in Kassa Overall on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 12 Sep 2025 11:46:45 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/kassa-overall/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cream</title>
+      <link>http://localhost:1377/l/1757677605/</link>
+      <pubDate>Fri, 12 Sep 2025 11:46:45 +0000</pubDate>
+      <guid>http://localhost:1377/l/1757677605/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Live at Third Man Records</title>
+      <link>http://localhost:1377/l/1724838022/</link>
+      <pubDate>Wed, 28 Aug 2024 09:40:22 +0000</pubDate>
+      <guid>http://localhost:1377/l/1724838022/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ANIMALS</title>
+      <link>http://localhost:1377/l/1685454283/</link>
+      <pubDate>Tue, 30 May 2023 13:44:43 +0000</pubDate>
+      <guid>http://localhost:1377/l/1685454283/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Go Get Ice Cream and Listen to Jazz</title>
+      <link>http://localhost:1377/l/1683310874/</link>
+      <pubDate>Fri, 05 May 2023 18:21:14 +0000</pubDate>
+      <guid>http://localhost:1377/l/1683310874/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

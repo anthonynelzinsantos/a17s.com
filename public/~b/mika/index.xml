@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mika on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/mika/</link>
+    <description>Recent content in Mika on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 23 Apr 2013 14:01:03 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/mika/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Life in Cartoon Motion</title>
+      <link>http://localhost:1377/l/1366725663/</link>
+      <pubDate>Tue, 23 Apr 2013 14:01:03 +0000</pubDate>
+      <guid>http://localhost:1377/l/1366725663/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The Boy Who Knew Too Much (Deluxe Version)</title>
+      <link>http://localhost:1377/l/1366724120/</link>
+      <pubDate>Tue, 23 Apr 2013 13:35:20 +0000</pubDate>
+      <guid>http://localhost:1377/l/1366724120/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

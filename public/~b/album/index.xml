@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ALBUM on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/album/</link>
+    <description>Recent content in ALBUM on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 16 Oct 2023 13:30:18 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/album/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Portrait De L&#39;Artiste</title>
+      <link>http://localhost:1377/l/1697463018/</link>
+      <pubDate>Mon, 16 Oct 2023 13:30:18 +0000</pubDate>
+      <guid>http://localhost:1377/l/1697463018/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

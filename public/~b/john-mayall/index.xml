@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>John Mayall on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/john-mayall/</link>
+    <description>Recent content in John Mayall on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 17 Jul 2013 12:47:25 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/john-mayall/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Latest Edition</title>
+      <link>http://localhost:1377/l/1374065245/</link>
+      <pubDate>Wed, 17 Jul 2013 12:47:25 +0000</pubDate>
+      <guid>http://localhost:1377/l/1374065245/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Moving On</title>
+      <link>http://localhost:1377/l/1374061649/</link>
+      <pubDate>Wed, 17 Jul 2013 11:47:29 +0000</pubDate>
+      <guid>http://localhost:1377/l/1374061649/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Jazz Blues Fusion</title>
+      <link>http://localhost:1377/l/1373896542/</link>
+      <pubDate>Mon, 15 Jul 2013 13:55:42 +0000</pubDate>
+      <guid>http://localhost:1377/l/1373896542/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

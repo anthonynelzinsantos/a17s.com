@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Richard Osman on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/richard-osman/</link>
+    <description>Recent content in Richard Osman on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 25 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/richard-osman/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>We Solve Murders</title>
+      <link>http://localhost:1377/r/1777075200/</link>
+      <pubDate>Sat, 25 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1377/r/1777075200/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The Impossible Fortune</title>
+      <link>http://localhost:1377/r/1766620800/</link>
+      <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1377/r/1766620800/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The Last Devil To Die</title>
+      <link>http://localhost:1377/r/1754697600/</link>
+      <pubDate>Sat, 09 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1377/r/1754697600/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The Bullet That Missed</title>
+      <link>http://localhost:1377/r/1744329600/</link>
+      <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1377/r/1744329600/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The Man Who Died Twice</title>
+      <link>http://localhost:1377/r/1736467200/</link>
+      <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1377/r/1736467200/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The Thursday Murder Club</title>
+      <link>http://localhost:1377/r/1730678400/</link>
+      <pubDate>Mon, 04 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1377/r/1730678400/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

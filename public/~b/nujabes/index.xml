@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nujabes on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/nujabes/</link>
+    <description>Recent content in Nujabes on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 29 Oct 2015 13:18:20 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/nujabes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Samurai Champloo Music Record: Impression</title>
+      <link>http://localhost:1377/l/1446124700/</link>
+      <pubDate>Thu, 29 Oct 2015 13:18:20 +0000</pubDate>
+      <guid>http://localhost:1377/l/1446124700/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Samurai Champloo Music Record: Departure</title>
+      <link>http://localhost:1377/l/1446048235/</link>
+      <pubDate>Wed, 28 Oct 2015 16:03:55 +0000</pubDate>
+      <guid>http://localhost:1377/l/1446048235/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>IMPRESSION: Samurai Champloo OST</title>
+      <link>http://localhost:1377/l/1444833909/</link>
+      <pubDate>Wed, 14 Oct 2015 14:45:09 +0000</pubDate>
+      <guid>http://localhost:1377/l/1444833909/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Metaphorical Music</title>
+      <link>http://localhost:1377/l/1402646633/</link>
+      <pubDate>Fri, 13 Jun 2014 08:03:53 +0000</pubDate>
+      <guid>http://localhost:1377/l/1402646633/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

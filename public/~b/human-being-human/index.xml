@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Human Being Human on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/human-being-human/</link>
+    <description>Recent content in Human Being Human on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 14 Jan 2026 17:45:27 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/human-being-human/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Human Nature</title>
+      <link>http://localhost:1377/l/1768412727/</link>
+      <pubDate>Wed, 14 Jan 2026 17:45:27 +0000</pubDate>
+      <guid>http://localhost:1377/l/1768412727/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

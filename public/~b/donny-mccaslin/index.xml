@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Donny McCaslin on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/donny-mccaslin/</link>
+    <description>Recent content in Donny McCaslin on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 09 Oct 2025 09:05:15 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/donny-mccaslin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lullaby for the Lost</title>
+      <link>http://localhost:1377/l/1760000715/</link>
+      <pubDate>Thu, 09 Oct 2025 09:05:15 +0000</pubDate>
+      <guid>http://localhost:1377/l/1760000715/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Seen from Above</title>
+      <link>http://localhost:1377/l/1757662955/</link>
+      <pubDate>Fri, 12 Sep 2025 07:42:35 +0000</pubDate>
+      <guid>http://localhost:1377/l/1757662955/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>I Want More</title>
+      <link>http://localhost:1377/l/1688386164/</link>
+      <pubDate>Mon, 03 Jul 2023 12:09:24 +0000</pubDate>
+      <guid>http://localhost:1377/l/1688386164/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Doors on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/the-doors/</link>
+    <description>Recent content in The Doors on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 20 May 2014 11:23:49 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/the-doors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Morrison Hotel</title>
+      <link>http://localhost:1377/l/1400585029/</link>
+      <pubDate>Tue, 20 May 2014 11:23:49 +0000</pubDate>
+      <guid>http://localhost:1377/l/1400585029/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Strange Days</title>
+      <link>http://localhost:1377/l/1400584042/</link>
+      <pubDate>Tue, 20 May 2014 11:07:22 +0000</pubDate>
+      <guid>http://localhost:1377/l/1400584042/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The Doors: 40th Anniversary Mixes</title>
+      <link>http://localhost:1377/l/1400583640/</link>
+      <pubDate>Tue, 20 May 2014 11:00:40 +0000</pubDate>
+      <guid>http://localhost:1377/l/1400583640/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The Soft Parade</title>
+      <link>http://localhost:1377/l/1400582699/</link>
+      <pubDate>Tue, 20 May 2014 10:44:59 +0000</pubDate>
+      <guid>http://localhost:1377/l/1400582699/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>L.A. Woman</title>
+      <link>http://localhost:1377/l/1400582537/</link>
+      <pubDate>Tue, 20 May 2014 10:42:17 +0000</pubDate>
+      <guid>http://localhost:1377/l/1400582537/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Waiting for the Sun</title>
+      <link>http://localhost:1377/l/1400582192/</link>
+      <pubDate>Tue, 20 May 2014 10:36:32 +0000</pubDate>
+      <guid>http://localhost:1377/l/1400582192/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The Doors</title>
+      <link>http://localhost:1377/l/1400582012/</link>
+      <pubDate>Tue, 20 May 2014 10:33:32 +0000</pubDate>
+      <guid>http://localhost:1377/l/1400582012/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

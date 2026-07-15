@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nikki Yanofsky on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/nikki-yanofsky/</link>
+    <description>Recent content in Nikki Yanofsky on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 06 Jul 2016 11:02:32 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/nikki-yanofsky/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nikki (France Version)</title>
+      <link>http://localhost:1377/l/1467802952/</link>
+      <pubDate>Wed, 06 Jul 2016 11:02:32 +0000</pubDate>
+      <guid>http://localhost:1377/l/1467802952/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Little Secret</title>
+      <link>http://localhost:1377/l/1433433793/</link>
+      <pubDate>Thu, 04 Jun 2015 16:03:13 +0000</pubDate>
+      <guid>http://localhost:1377/l/1433433793/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ella... Of Thee I Swing</title>
+      <link>http://localhost:1377/l/1413625580/</link>
+      <pubDate>Sat, 18 Oct 2014 09:46:20 +0000</pubDate>
+      <guid>http://localhost:1377/l/1413625580/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Nikki</title>
+      <link>http://localhost:1377/l/1411448279/</link>
+      <pubDate>Tue, 23 Sep 2014 04:57:59 +0000</pubDate>
+      <guid>http://localhost:1377/l/1411448279/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

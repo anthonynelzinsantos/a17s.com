@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sufjan Stevens on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/sufjan-stevens/</link>
+    <description>Recent content in Sufjan Stevens on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 20 Aug 2025 08:24:28 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/sufjan-stevens/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>All Delighted People</title>
+      <link>http://localhost:1377/l/1755678268/</link>
+      <pubDate>Wed, 20 Aug 2025 08:24:28 +0000</pubDate>
+      <guid>http://localhost:1377/l/1755678268/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>A Sun Came (reissue)</title>
+      <link>http://localhost:1377/l/1749823019/</link>
+      <pubDate>Fri, 13 Jun 2025 13:56:59 +0000</pubDate>
+      <guid>http://localhost:1377/l/1749823019/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Illinois</title>
+      <link>http://localhost:1377/l/1428185736/</link>
+      <pubDate>Sat, 04 Apr 2015 22:15:36 +0000</pubDate>
+      <guid>http://localhost:1377/l/1428185736/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

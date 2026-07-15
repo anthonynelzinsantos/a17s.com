@@ -10,44 +10,44 @@
     <atom:link href="http://localhost:1377/tags/re-watched/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Big Short</title>
-      <link>http://localhost:1377/watched/the-big-short/</link>
+      <link>http://localhost:1377/w/1781913600/</link>
       <pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1377/watched/the-big-short/</guid>
+      <guid>http://localhost:1377/w/1781913600/</guid>
       <description></description>
     </item>
     <item>
       <title>The Truman Show</title>
-      <link>http://localhost:1377/watched/the-truman-show/</link>
+      <link>http://localhost:1377/w/1780790400/</link>
       <pubDate>Sun, 07 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1377/watched/the-truman-show/</guid>
+      <guid>http://localhost:1377/w/1780790400/</guid>
       <description></description>
     </item>
     <item>
       <title>Maigret and the St. Fiacre Case</title>
-      <link>http://localhost:1377/watched/maigret-and-the-st-fiacre-case/</link>
+      <link>http://localhost:1377/w/1761523200/</link>
       <pubDate>Mon, 27 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1377/watched/maigret-and-the-st-fiacre-case/</guid>
+      <guid>http://localhost:1377/w/1761523200/</guid>
       <description></description>
     </item>
     <item>
       <title>Hercules</title>
-      <link>http://localhost:1377/watched/hercules/</link>
+      <link>http://localhost:1377/w/1742688000/</link>
       <pubDate>Sun, 23 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1377/watched/hercules/</guid>
+      <guid>http://localhost:1377/w/1742688000/</guid>
       <description></description>
     </item>
     <item>
       <title>Breakfast at Tiffany&#39;s</title>
-      <link>http://localhost:1377/watched/breakfast-at-tiffanys/</link>
+      <link>http://localhost:1377/w/1741478400/</link>
       <pubDate>Sun, 09 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1377/watched/breakfast-at-tiffanys/</guid>
+      <guid>http://localhost:1377/w/1741478400/</guid>
       <description></description>
     </item>
     <item>
       <title>The Lego Batman Movie</title>
-      <link>http://localhost:1377/watched/the-lego-batman-movie/</link>
+      <link>http://localhost:1377/w/1738454400/</link>
       <pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1377/watched/the-lego-batman-movie/</guid>
+      <guid>http://localhost:1377/w/1738454400/</guid>
       <description></description>
     </item>
   </channel>

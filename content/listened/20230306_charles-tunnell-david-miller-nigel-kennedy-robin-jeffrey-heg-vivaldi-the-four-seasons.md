@@ -1,9 +1,0 @@
----
-title: "Vivaldi: The Four Seasons"
-slug: "charles-tunnell-david-miller-nigel-kennedy-robin-jeffrey-heg-vivaldi-the-four-seasons"
-date: "2023-03-06T12:54:03.000Z"
-artist: "Charles Tunnell, David Miller, Nigel Kennedy, Robin Jeffrey, Hegedus, English Chamber Orchestra, John Constable & Ivor Bolton"
-external: "https://www.last.fm/music/Charles+Tunnell%2C+David+Miller%2C+Nigel+Kennedy%2C+Robin+Jeffrey%2C+Hegedus%2C+English+Chamber+Orchestra%2C+John+Constable+%26+Ivor+Bolton/Vivaldi%3A+The+Four+Seasons"
-hasSummary: false
----
-

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Keith Jarrett / Charlie Haden on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/keith-jarrett-/-charlie-haden/</link>
+    <description>Recent content in Keith Jarrett / Charlie Haden on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 25 May 2023 19:16:44 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/keith-jarrett-/-charlie-haden/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Last Dance</title>
+      <link>http://localhost:1377/l/1685042204/</link>
+      <pubDate>Thu, 25 May 2023 19:16:44 +0000</pubDate>
+      <guid>http://localhost:1377/l/1685042204/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Jasmine</title>
+      <link>http://localhost:1377/l/1685038384/</link>
+      <pubDate>Thu, 25 May 2023 18:13:04 +0000</pubDate>
+      <guid>http://localhost:1377/l/1685038384/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

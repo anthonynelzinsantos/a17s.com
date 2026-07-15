@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Avishai Cohen on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/avishai-cohen/</link>
+    <description>Recent content in Avishai Cohen on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 04 Jun 2026 11:35:12 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/avishai-cohen/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Eternal Child</title>
+      <link>http://localhost:1377/l/1780572912/</link>
+      <pubDate>Thu, 04 Jun 2026 11:35:12 +0000</pubDate>
+      <guid>http://localhost:1377/l/1780572912/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Brightlight</title>
+      <link>http://localhost:1377/l/1738163390/</link>
+      <pubDate>Wed, 29 Jan 2025 15:09:50 +0000</pubDate>
+      <guid>http://localhost:1377/l/1738163390/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cross My Palm With Silver</title>
+      <link>http://localhost:1377/l/1684742915/</link>
+      <pubDate>Mon, 22 May 2023 08:08:35 +0000</pubDate>
+      <guid>http://localhost:1377/l/1684742915/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Almah</title>
+      <link>http://localhost:1377/l/1452682865/</link>
+      <pubDate>Wed, 13 Jan 2016 11:01:05 +0000</pubDate>
+      <guid>http://localhost:1377/l/1452682865/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gently Disturbed</title>
+      <link>http://localhost:1377/l/1428745623/</link>
+      <pubDate>Sat, 11 Apr 2015 09:47:03 +0000</pubDate>
+      <guid>http://localhost:1377/l/1428745623/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andrew Richards on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/andrew-richards/</link>
+    <description>Recent content in Andrew Richards on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 07 Feb 2023 09:15:41 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/andrew-richards/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Andrew Richards</title>
+      <link>http://localhost:1377/l/1675761341/</link>
+      <pubDate>Tue, 07 Feb 2023 09:15:41 +0000</pubDate>
+      <guid>http://localhost:1377/l/1675761341/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

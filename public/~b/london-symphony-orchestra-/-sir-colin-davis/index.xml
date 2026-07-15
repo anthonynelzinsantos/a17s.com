@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>London Symphony Orchestra / Sir Colin Davis on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/london-symphony-orchestra-/-sir-colin-davis/</link>
+    <description>Recent content in London Symphony Orchestra / Sir Colin Davis on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 05 Aug 2015 08:38:45 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/london-symphony-orchestra-/-sir-colin-davis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Beethoven — Mass in C</title>
+      <link>http://localhost:1377/l/1438763925/</link>
+      <pubDate>Wed, 05 Aug 2015 08:38:45 +0000</pubDate>
+      <guid>http://localhost:1377/l/1438763925/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Berlioz — Symphonie fantastique</title>
+      <link>http://localhost:1377/l/1376981558/</link>
+      <pubDate>Tue, 20 Aug 2013 06:52:38 +0000</pubDate>
+      <guid>http://localhost:1377/l/1376981558/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dvořák — Symphony No. 9</title>
+      <link>http://localhost:1377/l/1371313268/</link>
+      <pubDate>Sat, 15 Jun 2013 16:21:08 +0000</pubDate>
+      <guid>http://localhost:1377/l/1371313268/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Berlioz — Grande Messe des morts</title>
+      <link>http://localhost:1377/l/1369059434/</link>
+      <pubDate>Mon, 20 May 2013 14:17:14 +0000</pubDate>
+      <guid>http://localhost:1377/l/1369059434/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Nielsen — Symphonies Nos 2 &amp; 3</title>
+      <link>http://localhost:1377/l/1366116355/</link>
+      <pubDate>Tue, 16 Apr 2013 12:45:55 +0000</pubDate>
+      <guid>http://localhost:1377/l/1366116355/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

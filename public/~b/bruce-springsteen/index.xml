@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bruce Springsteen on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/bruce-springsteen/</link>
+    <description>Recent content in Bruce Springsteen on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 19 Feb 2014 11:16:36 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/bruce-springsteen/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>High Hopes</title>
+      <link>http://localhost:1377/l/1392808596/</link>
+      <pubDate>Wed, 19 Feb 2014 11:16:36 +0000</pubDate>
+      <guid>http://localhost:1377/l/1392808596/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Born to Run</title>
+      <link>http://localhost:1377/l/1376655475/</link>
+      <pubDate>Fri, 16 Aug 2013 12:17:55 +0000</pubDate>
+      <guid>http://localhost:1377/l/1376655475/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Darkness on the Edge of Town [The Promise Reissue]</title>
+      <link>http://localhost:1377/l/1372666311/</link>
+      <pubDate>Mon, 01 Jul 2013 08:11:51 +0000</pubDate>
+      <guid>http://localhost:1377/l/1372666311/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

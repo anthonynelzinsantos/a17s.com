@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ludovico Einaudi on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/ludovico-einaudi/</link>
+    <description>Recent content in Ludovico Einaudi on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 03 Sep 2025 14:22:46 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/ludovico-einaudi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Einaudi Vs Einaudi</title>
+      <link>http://localhost:1377/l/1756909366/</link>
+      <pubDate>Wed, 03 Sep 2025 14:22:46 +0000</pubDate>
+      <guid>http://localhost:1377/l/1756909366/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>In a Time Lapse</title>
+      <link>http://localhost:1377/l/1363687809/</link>
+      <pubDate>Tue, 19 Mar 2013 10:10:09 +0000</pubDate>
+      <guid>http://localhost:1377/l/1363687809/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

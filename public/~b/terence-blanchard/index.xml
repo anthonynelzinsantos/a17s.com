@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Terence Blanchard on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/terence-blanchard/</link>
+    <description>Recent content in Terence Blanchard on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 27 Apr 2016 07:07:42 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/terence-blanchard/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Breathless</title>
+      <link>http://localhost:1377/l/1461740862/</link>
+      <pubDate>Wed, 27 Apr 2016 07:07:42 +0000</pubDate>
+      <guid>http://localhost:1377/l/1461740862/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

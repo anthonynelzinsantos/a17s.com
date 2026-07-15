@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Faris on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/faris/</link>
+    <description>Recent content in Faris on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 29 Jun 2015 09:10:03 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/faris/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mississippi to Sahara</title>
+      <link>http://localhost:1377/l/1435569003/</link>
+      <pubDate>Mon, 29 Jun 2015 09:10:03 +0000</pubDate>
+      <guid>http://localhost:1377/l/1435569003/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

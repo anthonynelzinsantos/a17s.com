@@ -1,9 +1,0 @@
----
-title: "Sakamichi no Apollon"
-slug: "yoko-kanno-sakamichi-no-apollon"
-date: "2015-10-17T19:50:42.000Z"
-artist: "Yoko Kanno"
-external: "https://www.last.fm/music/Yoko+Kanno/Sakamichi+no+Apollon"
-hasSummary: false
----
-

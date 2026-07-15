@@ -1,9 +1,0 @@
----
-title: "Aoyama Nights = 青山ナイツ\""
-slug: "mariko-katsuragi-mariko-katsuragi-aoyama-nights"
-date: "2024-12-01T10:14:16.000Z"
-artist: "Mariko Katsuragi = Mariko Katsuragi"
-external: "https://www.last.fm/music/Mariko+Katsuragi+%3D+Mariko+Katsuragi/Aoyama+Nights+%3D+%E9%9D%92%E5%B1%B1%E3%83%8A%E3%82%A4%E3%83%84%22"
-hasSummary: false
----
-

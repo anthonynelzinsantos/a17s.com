@@ -1,9 +1,0 @@
----
-title: "Les amants parallèles"
-slug: "vincent-delerm-les-amants-paralleles"
-date: "2014-01-17T19:43:13.000Z"
-artist: "Vincent Delerm"
-external: "https://www.last.fm/music/Vincent+Delerm/Les+amants+parall%C3%A8les"
-hasSummary: false
----
-

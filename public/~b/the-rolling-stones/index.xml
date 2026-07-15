@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Rolling Stones on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/the-rolling-stones/</link>
+    <description>Recent content in The Rolling Stones on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 23 Jun 2025 08:30:22 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/the-rolling-stones/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Emotional Rescue</title>
+      <link>http://localhost:1377/l/1750667422/</link>
+      <pubDate>Mon, 23 Jun 2025 08:30:22 +0000</pubDate>
+      <guid>http://localhost:1377/l/1750667422/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Let It Bleed (Remastered 2019)</title>
+      <link>http://localhost:1377/l/1748370709/</link>
+      <pubDate>Tue, 27 May 2025 18:31:49 +0000</pubDate>
+      <guid>http://localhost:1377/l/1748370709/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Blue &amp; Lonesome</title>
+      <link>http://localhost:1377/l/1484217170/</link>
+      <pubDate>Thu, 12 Jan 2017 10:32:50 +0000</pubDate>
+      <guid>http://localhost:1377/l/1484217170/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Exile On Main Street [Deluxe Version] [Remastered]</title>
+      <link>http://localhost:1377/l/1361376588/</link>
+      <pubDate>Wed, 20 Feb 2013 16:09:48 +0000</pubDate>
+      <guid>http://localhost:1377/l/1361376588/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

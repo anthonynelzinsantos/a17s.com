@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emile Londonien on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/emile-londonien/</link>
+    <description>Recent content in Emile Londonien on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 19 Nov 2024 10:24:35 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/emile-londonien/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Inwards</title>
+      <link>http://localhost:1377/l/1732011875/</link>
+      <pubDate>Tue, 19 Nov 2024 10:24:35 +0000</pubDate>
+      <guid>http://localhost:1377/l/1732011875/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Three Roses - EP</title>
+      <link>http://localhost:1377/l/1715932592/</link>
+      <pubDate>Fri, 17 May 2024 07:56:32 +0000</pubDate>
+      <guid>http://localhost:1377/l/1715932592/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Legacy</title>
+      <link>http://localhost:1377/l/1676034195/</link>
+      <pubDate>Fri, 10 Feb 2023 13:03:15 +0000</pubDate>
+      <guid>http://localhost:1377/l/1676034195/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

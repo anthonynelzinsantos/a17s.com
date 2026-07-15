@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andrea Motis on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/andrea-motis/</link>
+    <description>Recent content in Andrea Motis on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 01 Mar 2024 16:35:42 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/andrea-motis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Febrero (feat. Camerata Papageno, Christoph Mallinger &amp; Federico Dannemann)</title>
+      <link>http://localhost:1377/l/1709310942/</link>
+      <pubDate>Fri, 01 Mar 2024 16:35:42 +0000</pubDate>
+      <guid>http://localhost:1377/l/1709310942/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Live at Palau De La Música</title>
+      <link>http://localhost:1377/l/1487169350/</link>
+      <pubDate>Wed, 15 Feb 2017 14:35:50 +0000</pubDate>
+      <guid>http://localhost:1377/l/1487169350/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Live at Jamboree - Barcelona</title>
+      <link>http://localhost:1377/l/1470046594/</link>
+      <pubDate>Mon, 01 Aug 2016 10:16:34 +0000</pubDate>
+      <guid>http://localhost:1377/l/1470046594/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

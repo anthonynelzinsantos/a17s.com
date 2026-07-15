@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yellowjackets on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/yellowjackets/</link>
+    <description>Recent content in Yellowjackets on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 26 Feb 2025 09:15:24 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/yellowjackets/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fasten Up</title>
+      <link>http://localhost:1377/l/1740561324/</link>
+      <pubDate>Wed, 26 Feb 2025 09:15:24 +0000</pubDate>
+      <guid>http://localhost:1377/l/1740561324/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

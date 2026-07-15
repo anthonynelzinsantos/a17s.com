@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daniel Herskedal on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/daniel-herskedal/</link>
+    <description>Recent content in Daniel Herskedal on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 26 Jun 2025 09:32:12 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/daniel-herskedal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Call for Winter</title>
+      <link>http://localhost:1377/l/1750930332/</link>
+      <pubDate>Thu, 26 Jun 2025 09:32:12 +0000</pubDate>
+      <guid>http://localhost:1377/l/1750930332/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>A Single Sunbeam</title>
+      <link>http://localhost:1377/l/1739428639/</link>
+      <pubDate>Thu, 13 Feb 2025 06:37:19 +0000</pubDate>
+      <guid>http://localhost:1377/l/1739428639/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Call For Winter II: Resonance</title>
+      <link>http://localhost:1377/l/1727448241/</link>
+      <pubDate>Fri, 27 Sep 2024 14:44:01 +0000</pubDate>
+      <guid>http://localhost:1377/l/1727448241/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

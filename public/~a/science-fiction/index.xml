@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Science-Fiction on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~a/science-fiction/</link>
+    <description>Recent content in Science-Fiction on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 21 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~a/science-fiction/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Superman</title>
+      <link>http://localhost:1377/w/1774051200/</link>
+      <pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1377/w/1774051200/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mickey 17</title>
+      <link>http://localhost:1377/w/1762646400/</link>
+      <pubDate>Sun, 09 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1377/w/1762646400/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The Wild Robot</title>
+      <link>http://localhost:1377/w/1744502400/</link>
+      <pubDate>Sun, 13 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1377/w/1744502400/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The Gorge</title>
+      <link>http://localhost:1377/w/1740355200/</link>
+      <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1377/w/1740355200/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Wallace &amp; Gromit: Vengeance Most Fowl</title>
+      <link>http://localhost:1377/w/1737072000/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1377/w/1737072000/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Robot Dreams</title>
+      <link>http://localhost:1377/w/1726963200/</link>
+      <pubDate>Sun, 22 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1377/w/1726963200/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Poor Things</title>
+      <link>http://localhost:1377/w/1725667200/</link>
+      <pubDate>Sat, 07 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1377/w/1725667200/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

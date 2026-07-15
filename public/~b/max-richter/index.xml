@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Max Richter on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/max-richter/</link>
+    <description>Recent content in Max Richter on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 09 Sep 2025 12:05:35 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/max-richter/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sleep Circle</title>
+      <link>http://localhost:1377/l/1757419535/</link>
+      <pubDate>Tue, 09 Sep 2025 12:05:35 +0000</pubDate>
+      <guid>http://localhost:1377/l/1757419535/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>In A Landscape</title>
+      <link>http://localhost:1377/l/1725612527/</link>
+      <pubDate>Fri, 06 Sep 2024 08:48:47 +0000</pubDate>
+      <guid>http://localhost:1377/l/1725612527/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

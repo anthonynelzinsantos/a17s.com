@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Black Keys on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/the-black-keys/</link>
+    <description>Recent content in The Black Keys on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 19 Aug 2025 13:31:28 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/the-black-keys/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>No Rain, No Flowers</title>
+      <link>http://localhost:1377/l/1755610288/</link>
+      <pubDate>Tue, 19 Aug 2025 13:31:28 +0000</pubDate>
+      <guid>http://localhost:1377/l/1755610288/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Turn Blue</title>
+      <link>http://localhost:1377/l/1400343800/</link>
+      <pubDate>Sat, 17 May 2014 16:23:20 +0000</pubDate>
+      <guid>http://localhost:1377/l/1400343800/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

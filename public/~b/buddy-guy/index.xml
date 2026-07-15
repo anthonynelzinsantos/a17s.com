@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Buddy Guy on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/buddy-guy/</link>
+    <description>Recent content in Buddy Guy on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 11 Aug 2025 13:30:23 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/buddy-guy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ain&#39;t Done With The Blues</title>
+      <link>http://localhost:1377/l/1754919023/</link>
+      <pubDate>Mon, 11 Aug 2025 13:30:23 +0000</pubDate>
+      <guid>http://localhost:1377/l/1754919023/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rhythm &amp; Blues</title>
+      <link>http://localhost:1377/l/1452264740/</link>
+      <pubDate>Fri, 08 Jan 2016 14:52:20 +0000</pubDate>
+      <guid>http://localhost:1377/l/1452264740/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Born To Play Guitar</title>
+      <link>http://localhost:1377/l/1438938513/</link>
+      <pubDate>Fri, 07 Aug 2015 09:08:33 +0000</pubDate>
+      <guid>http://localhost:1377/l/1438938513/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sweet Tea</title>
+      <link>http://localhost:1377/l/1436787709/</link>
+      <pubDate>Mon, 13 Jul 2015 11:41:49 +0000</pubDate>
+      <guid>http://localhost:1377/l/1436787709/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Living Proof</title>
+      <link>http://localhost:1377/l/1369588428/</link>
+      <pubDate>Sun, 26 May 2013 17:13:48 +0000</pubDate>
+      <guid>http://localhost:1377/l/1369588428/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

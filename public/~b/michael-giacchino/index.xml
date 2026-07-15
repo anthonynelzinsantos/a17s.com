@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Michael Giacchino on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/michael-giacchino/</link>
+    <description>Recent content in Michael Giacchino on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 30 Jul 2015 10:17:49 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/michael-giacchino/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Inside Out</title>
+      <link>http://localhost:1377/l/1438251469/</link>
+      <pubDate>Thu, 30 Jul 2015 10:17:49 +0000</pubDate>
+      <guid>http://localhost:1377/l/1438251469/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Inside Out (Original Motion Picture Soundtrack)</title>
+      <link>http://localhost:1377/l/1435847767/</link>
+      <pubDate>Thu, 02 Jul 2015 14:36:07 +0000</pubDate>
+      <guid>http://localhost:1377/l/1435847767/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

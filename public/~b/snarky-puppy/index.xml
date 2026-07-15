@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Snarky Puppy on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/snarky-puppy/</link>
+    <description>Recent content in Snarky Puppy on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 02 May 2023 08:05:01 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/snarky-puppy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GroundUP</title>
+      <link>http://localhost:1377/l/1683014701/</link>
+      <pubDate>Tue, 02 May 2023 08:05:01 +0000</pubDate>
+      <guid>http://localhost:1377/l/1683014701/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sylva</title>
+      <link>http://localhost:1377/l/1451989410/</link>
+      <pubDate>Tue, 05 Jan 2016 10:23:30 +0000</pubDate>
+      <guid>http://localhost:1377/l/1451989410/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Family Dinner</title>
+      <link>http://localhost:1377/l/1381408466/</link>
+      <pubDate>Thu, 10 Oct 2013 12:34:26 +0000</pubDate>
+      <guid>http://localhost:1377/l/1381408466/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

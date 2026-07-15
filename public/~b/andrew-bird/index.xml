@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andrew Bird on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/andrew-bird/</link>
+    <description>Recent content in Andrew Bird on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 19 Sep 2023 12:13:46 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/andrew-bird/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Outside Problems</title>
+      <link>http://localhost:1377/l/1695125626/</link>
+      <pubDate>Tue, 19 Sep 2023 12:13:46 +0000</pubDate>
+      <guid>http://localhost:1377/l/1695125626/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>HARK!</title>
+      <link>http://localhost:1377/l/1671569167/</link>
+      <pubDate>Tue, 20 Dec 2022 20:46:07 +0000</pubDate>
+      <guid>http://localhost:1377/l/1671569167/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

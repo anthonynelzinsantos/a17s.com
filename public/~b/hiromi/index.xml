@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hiromi on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/hiromi/</link>
+    <description>Recent content in Hiromi on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 17 Oct 2025 06:47:38 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/hiromi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Electrifying Piano</title>
+      <link>http://localhost:1377/l/1760683658/</link>
+      <pubDate>Fri, 17 Oct 2025 06:47:38 +0000</pubDate>
+      <guid>http://localhost:1377/l/1760683658/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OUT THERE</title>
+      <link>http://localhost:1377/l/1744102074/</link>
+      <pubDate>Tue, 08 Apr 2025 08:47:54 +0000</pubDate>
+      <guid>http://localhost:1377/l/1744102074/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sonicwonderland (feat. Sonicwonder)</title>
+      <link>http://localhost:1377/l/1704810218/</link>
+      <pubDate>Tue, 09 Jan 2024 14:23:38 +0000</pubDate>
+      <guid>http://localhost:1377/l/1704810218/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

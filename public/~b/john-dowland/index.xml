@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>John Dowland on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/john-dowland/</link>
+    <description>Recent content in John Dowland on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 27 Jul 2016 14:58:20 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/john-dowland/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My favorite Dowland</title>
+      <link>http://localhost:1377/l/1469631500/</link>
+      <pubDate>Wed, 27 Jul 2016 14:58:20 +0000</pubDate>
+      <guid>http://localhost:1377/l/1469631500/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

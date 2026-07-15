@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>La La Lars on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/la-la-lars/</link>
+    <description>Recent content in La La Lars on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 01 Feb 2024 13:28:59 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/la-la-lars/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La La Lars IV</title>
+      <link>http://localhost:1377/l/1706794139/</link>
+      <pubDate>Thu, 01 Feb 2024 13:28:59 +0000</pubDate>
+      <guid>http://localhost:1377/l/1706794139/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

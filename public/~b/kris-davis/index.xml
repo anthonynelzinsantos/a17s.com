@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kris Davis on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/kris-davis/</link>
+    <description>Recent content in Kris Davis on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 23 Jun 2026 07:07:39 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/kris-davis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Solastalgia Suite</title>
+      <link>http://localhost:1377/l/1782198459/</link>
+      <pubDate>Tue, 23 Jun 2026 07:07:39 +0000</pubDate>
+      <guid>http://localhost:1377/l/1782198459/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Capricorn Climber (feat. Mat Maneri, Ingrid Laubrock, Trevor Dunn &amp; Tom Rainey)</title>
+      <link>http://localhost:1377/l/1735226254/</link>
+      <pubDate>Thu, 26 Dec 2024 15:17:34 +0000</pubDate>
+      <guid>http://localhost:1377/l/1735226254/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Diatom Ribbons (Live At The Village Vanguard) [feat. Terri Lyne Carrington, Julian Lage, Val Jeanty &amp; Trevor Dunn]</title>
+      <link>http://localhost:1377/l/1699699750/</link>
+      <pubDate>Sat, 11 Nov 2023 10:49:10 +0000</pubDate>
+      <guid>http://localhost:1377/l/1699699750/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

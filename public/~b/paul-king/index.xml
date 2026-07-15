@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paul King on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/paul-king/</link>
+    <description>Recent content in Paul King on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 22 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/paul-king/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Paddington 2</title>
+      <link>http://localhost:1377/w/1734825600/</link>
+      <pubDate>Sun, 22 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1377/w/1734825600/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Wonka</title>
+      <link>http://localhost:1377/w/1726876800/</link>
+      <pubDate>Sat, 21 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1377/w/1726876800/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

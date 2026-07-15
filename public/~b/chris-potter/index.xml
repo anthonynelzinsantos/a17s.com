@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chris Potter on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/chris-potter/</link>
+    <description>Recent content in Chris Potter on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 13 Mar 2024 13:09:13 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/chris-potter/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Eagle&#39;s Point (feat. Brad Mehldau, John Patitucci &amp; Brian Blade)</title>
+      <link>http://localhost:1377/l/1710335353/</link>
+      <pubDate>Wed, 13 Mar 2024 13:09:13 +0000</pubDate>
+      <guid>http://localhost:1377/l/1710335353/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Got the Keys to the Kingdom: Live at the Village Vanguard</title>
+      <link>http://localhost:1377/l/1677072299/</link>
+      <pubDate>Wed, 22 Feb 2023 13:24:59 +0000</pubDate>
+      <guid>http://localhost:1377/l/1677072299/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

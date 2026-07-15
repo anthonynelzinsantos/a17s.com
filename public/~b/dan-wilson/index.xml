@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dan Wilson on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/dan-wilson/</link>
+    <description>Recent content in Dan Wilson on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 31 May 2023 13:31:09 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/dan-wilson/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Things Eternal</title>
+      <link>http://localhost:1377/l/1685539869/</link>
+      <pubDate>Wed, 31 May 2023 13:31:09 +0000</pubDate>
+      <guid>http://localhost:1377/l/1685539869/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

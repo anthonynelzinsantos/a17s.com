@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Clash on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/the-clash/</link>
+    <description>Recent content in The Clash on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 21 Oct 2013 20:53:05 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/the-clash/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>London Calling</title>
+      <link>http://localhost:1377/l/1382388785/</link>
+      <pubDate>Mon, 21 Oct 2013 20:53:05 +0000</pubDate>
+      <guid>http://localhost:1377/l/1382388785/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sandinista!</title>
+      <link>http://localhost:1377/l/1371821079/</link>
+      <pubDate>Fri, 21 Jun 2013 13:24:39 +0000</pubDate>
+      <guid>http://localhost:1377/l/1371821079/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

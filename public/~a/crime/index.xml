@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Crime on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~a/crime/</link>
+    <description>Recent content in Crime on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 26 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~a/crime/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Honey Don&#39;t!</title>
+      <link>http://localhost:1377/w/1782432000/</link>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1377/w/1782432000/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The Phoenician Scheme</title>
+      <link>http://localhost:1377/w/1779667200/</link>
+      <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1377/w/1779667200/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The Woman in Cabin 10</title>
+      <link>http://localhost:1377/w/1762646401/</link>
+      <pubDate>Sun, 09 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1377/w/1762646401/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The Thursday Murder Club</title>
+      <link>http://localhost:1377/w/1756339200/</link>
+      <pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1377/w/1756339200/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The Delinquents</title>
+      <link>http://localhost:1377/w/1737763200/</link>
+      <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1377/w/1737763200/</guid>
+      <description>&lt;p&gt;Eran tres, dos polacos y un francés.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hit Man</title>
+      <link>http://localhost:1377/w/1726272000/</link>
+      <pubDate>Sat, 14 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1377/w/1726272000/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The Trouble with Jessica</title>
+      <link>http://localhost:1377/w/1721520000/</link>
+      <pubDate>Sun, 21 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1377/w/1721520000/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

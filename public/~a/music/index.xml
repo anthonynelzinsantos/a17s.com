@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Music on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~a/music/</link>
+    <description>Recent content in Music on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 02 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~a/music/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Musicians</title>
+      <link>http://localhost:1377/w/1777680000/</link>
+      <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1377/w/1777680000/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Maria</title>
+      <link>http://localhost:1377/w/1763856000/</link>
+      <pubDate>Sun, 23 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1377/w/1763856000/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>KPop Demon Hunters</title>
+      <link>http://localhost:1377/w/1759017600/</link>
+      <pubDate>Sun, 28 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1377/w/1759017600/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The Marching Band</title>
+      <link>http://localhost:1377/w/1758585600/</link>
+      <pubDate>Tue, 23 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1377/w/1758585600/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>An Evening with Dua Lipa</title>
+      <link>http://localhost:1377/w/1735257600/</link>
+      <pubDate>Fri, 27 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1377/w/1735257600/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bach pour tous</title>
+      <link>http://localhost:1377/w/1732233600/</link>
+      <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1377/w/1732233600/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

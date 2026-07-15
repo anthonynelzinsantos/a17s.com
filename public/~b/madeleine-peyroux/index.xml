@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Madeleine Peyroux on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/madeleine-peyroux/</link>
+    <description>Recent content in Madeleine Peyroux on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 01 Jul 2024 12:20:36 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/madeleine-peyroux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Let&#39;s Walk</title>
+      <link>http://localhost:1377/l/1719836436/</link>
+      <pubDate>Mon, 01 Jul 2024 12:20:36 +0000</pubDate>
+      <guid>http://localhost:1377/l/1719836436/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The Blue Room</title>
+      <link>http://localhost:1377/l/1448975403/</link>
+      <pubDate>Tue, 01 Dec 2015 13:10:03 +0000</pubDate>
+      <guid>http://localhost:1377/l/1448975403/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Careless Love (International Version)</title>
+      <link>http://localhost:1377/l/1448896932/</link>
+      <pubDate>Mon, 30 Nov 2015 15:22:12 +0000</pubDate>
+      <guid>http://localhost:1377/l/1448896932/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

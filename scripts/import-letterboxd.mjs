@@ -47,7 +47,8 @@ for (const { r, when } of diary) {
   const uri = col(r, "Letterboxd URI");
   results.push(await writeEntry({
     date: new Date(when),
-    section: "watched",
+    section: "Watched",
+    on: "Film",
     title: col(r, "Name"),
     year: col(r, "Year") ? Number(col(r, "Year")) : undefined,
     rating: stars ? Math.round(Number(stars)) : undefined,

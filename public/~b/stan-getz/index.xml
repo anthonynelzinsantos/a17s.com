@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stan Getz on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/stan-getz/</link>
+    <description>Recent content in Stan Getz on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 10 Jul 2025 16:47:04 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/stan-getz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Getz/Gilberto</title>
+      <link>http://localhost:1377/l/1752166024/</link>
+      <pubDate>Thu, 10 Jul 2025 16:47:04 +0000</pubDate>
+      <guid>http://localhost:1377/l/1752166024/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Big Band Bossa Nova</title>
+      <link>http://localhost:1377/l/1384941731/</link>
+      <pubDate>Wed, 20 Nov 2013 10:02:11 +0000</pubDate>
+      <guid>http://localhost:1377/l/1384941731/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Anniversary</title>
+      <link>http://localhost:1377/l/1376679142/</link>
+      <pubDate>Fri, 16 Aug 2013 18:52:22 +0000</pubDate>
+      <guid>http://localhost:1377/l/1376679142/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

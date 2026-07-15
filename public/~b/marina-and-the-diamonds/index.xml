@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marina and the Diamonds on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/marina-and-the-diamonds/</link>
+    <description>Recent content in Marina and the Diamonds on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 03 Apr 2015 09:31:40 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/marina-and-the-diamonds/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Family Jewels</title>
+      <link>http://localhost:1377/l/1428053500/</link>
+      <pubDate>Fri, 03 Apr 2015 09:31:40 +0000</pubDate>
+      <guid>http://localhost:1377/l/1428053500/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>FROOT</title>
+      <link>http://localhost:1377/l/1427123170/</link>
+      <pubDate>Mon, 23 Mar 2015 15:06:10 +0000</pubDate>
+      <guid>http://localhost:1377/l/1427123170/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

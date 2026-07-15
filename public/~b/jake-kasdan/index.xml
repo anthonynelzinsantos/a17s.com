@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jake Kasdan on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/jake-kasdan/</link>
+    <description>Recent content in Jake Kasdan on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 14 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/jake-kasdan/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Red One</title>
+      <link>http://localhost:1377/w/1734134400/</link>
+      <pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1377/w/1734134400/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jeremy Pelt on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/jeremy-pelt/</link>
+    <description>Recent content in Jeremy Pelt on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 12 Dec 2025 10:42:52 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/jeremy-pelt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Christmas Interlude</title>
+      <link>http://localhost:1377/l/1765536172/</link>
+      <pubDate>Fri, 12 Dec 2025 10:42:52 +0000</pubDate>
+      <guid>http://localhost:1377/l/1765536172/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Woven</title>
+      <link>http://localhost:1377/l/1738585554/</link>
+      <pubDate>Mon, 03 Feb 2025 12:25:54 +0000</pubDate>
+      <guid>http://localhost:1377/l/1738585554/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The Art of Intimacy, Vol. 2: His Muse</title>
+      <link>http://localhost:1377/l/1680514831/</link>
+      <pubDate>Mon, 03 Apr 2023 09:40:31 +0000</pubDate>
+      <guid>http://localhost:1377/l/1680514831/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

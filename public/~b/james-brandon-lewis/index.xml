@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>James Brandon Lewis on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/james-brandon-lewis/</link>
+    <description>Recent content in James Brandon Lewis on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 05 Jun 2025 12:33:39 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/james-brandon-lewis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Days of FreeMan</title>
+      <link>http://localhost:1377/l/1749126819/</link>
+      <pubDate>Thu, 05 Jun 2025 12:33:39 +0000</pubDate>
+      <guid>http://localhost:1377/l/1749126819/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Apple Cores</title>
+      <link>http://localhost:1377/l/1739463220/</link>
+      <pubDate>Thu, 13 Feb 2025 16:13:40 +0000</pubDate>
+      <guid>http://localhost:1377/l/1739463220/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Eye Of I</title>
+      <link>http://localhost:1377/l/1675788830/</link>
+      <pubDate>Tue, 07 Feb 2023 16:53:50 +0000</pubDate>
+      <guid>http://localhost:1377/l/1675788830/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

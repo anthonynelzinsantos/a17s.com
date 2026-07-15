@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alabaster Deplume on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/alabaster-deplume/</link>
+    <description>Recent content in Alabaster Deplume on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 02 Apr 2025 11:14:05 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/alabaster-deplume/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Blade Because a Blade Is Whole</title>
+      <link>http://localhost:1377/l/1743592445/</link>
+      <pubDate>Wed, 02 Apr 2025 11:14:05 +0000</pubDate>
+      <guid>http://localhost:1377/l/1743592445/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Come With Fierce Grace</title>
+      <link>http://localhost:1377/l/1696239738/</link>
+      <pubDate>Mon, 02 Oct 2023 09:42:18 +0000</pubDate>
+      <guid>http://localhost:1377/l/1696239738/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

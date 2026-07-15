@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>John Coltrane on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/john-coltrane/</link>
+    <description>Recent content in John Coltrane on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 01 Jul 2025 08:58:22 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/john-coltrane/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Transition</title>
+      <link>http://localhost:1377/l/1751360302/</link>
+      <pubDate>Tue, 01 Jul 2025 08:58:22 +0000</pubDate>
+      <guid>http://localhost:1377/l/1751360302/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The Heavyweight Champion: the Complete Atlantic Recordings</title>
+      <link>http://localhost:1377/l/1412582818/</link>
+      <pubDate>Mon, 06 Oct 2014 08:06:58 +0000</pubDate>
+      <guid>http://localhost:1377/l/1412582818/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ballads</title>
+      <link>http://localhost:1377/l/1369512185/</link>
+      <pubDate>Sat, 25 May 2013 20:03:05 +0000</pubDate>
+      <guid>http://localhost:1377/l/1369512185/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

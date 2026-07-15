@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SPARKLE DIVISION on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/sparkle-division/</link>
+    <description>Recent content in SPARKLE DIVISION on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 24 Oct 2023 15:32:55 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/sparkle-division/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Foxy</title>
+      <link>http://localhost:1377/l/1698161575/</link>
+      <pubDate>Tue, 24 Oct 2023 15:32:55 +0000</pubDate>
+      <guid>http://localhost:1377/l/1698161575/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

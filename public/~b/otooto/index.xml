@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Otooto on Anthony&#39;s Archive</title>
+    <link>http://localhost:1377/~b/otooto/</link>
+    <description>Recent content in Otooto on Anthony&#39;s Archive</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 13 Nov 2024 10:48:17 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1377/~b/otooto/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2nd Quake</title>
+      <link>http://localhost:1377/l/1731494897/</link>
+      <pubDate>Wed, 13 Nov 2024 10:48:17 +0000</pubDate>
+      <guid>http://localhost:1377/l/1731494897/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
